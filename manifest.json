@@ -1,0 +1,242 @@
+{
+  "schema": 1,
+  "version": "5.3.0-ko.2",
+  "bppVersion": "5.3.0.prod",
+  "notes": "태그 순서 드래그 편집, 자동 업데이트",
+  "gameVersions": [],
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v5.3.0-ko.2/BazaarPlusPlus-Korean-v5.3.0-TagTools.zip",
+  "packageSha256": "332ad072c9687251f734a04037c0a8b9308d46b92af57a4c7085d98d8b4a5c2c",
+  "packageSize": 5321029,
+  "files": [
+    {
+      "path": "BazaarPlusPlusV5/voice-lines.json",
+      "sha256": "84b79e8398b8ad6405f1f8876e1a15b192207284005edc063de40fd3bead31f9",
+      "size": 1293610
+    },
+    {
+      "path": "BepInEx/core/0Harmony.dll",
+      "sha256": "1a21cc03424fc82c3dd1346905d16494536b9595ae4162228d99fb7c285c1031",
+      "size": 204800
+    },
+    {
+      "path": "BepInEx/core/0Harmony.xml",
+      "sha256": "ba0b048b03b6d6d024dfa0a3c46142ff41ba81e591640532a1daf9857704c43c",
+      "size": 241175
+    },
+    {
+      "path": "BepInEx/core/0Harmony20.dll",
+      "sha256": "c755a5ab2712915a32f9a850d580a8c1b70ff1653bc76600f2767aa8ffccc663",
+      "size": 112640
+    },
+    {
+      "path": "BepInEx/core/BepInEx.Harmony.dll",
+      "sha256": "00c8f2ac48593e4d45ce4eb26ce4e68b18113c5c489b38b8bf0850f65830d601",
+      "size": 6656
+    },
+    {
+      "path": "BepInEx/core/BepInEx.Harmony.xml",
+      "sha256": "e2176dac7ec4875cc016359add9810d656c87517200e408f219f9b4a7859514b",
+      "size": 3734
+    },
+    {
+      "path": "BepInEx/core/BepInEx.Preloader.dll",
+      "sha256": "55d3895351a9d16b63b6f35f1c01b44ac650979e853d0bd3a442b92a082af64f",
+      "size": 43008
+    },
+    {
+      "path": "BepInEx/core/BepInEx.Preloader.xml",
+      "sha256": "3cd237f940e78061d96b4d39f32e238d4bf11a385b3f56178edcb86656ab6d2c",
+      "size": 7292
+    },
+    {
+      "path": "BepInEx/core/BepInEx.dll",
+      "sha256": "8255b28902886085c578b9e427d3073c97002db85176d2090cdeda90ef14ce70",
+      "size": 128512
+    },
+    {
+      "path": "BepInEx/core/BepInEx.xml",
+      "sha256": "179197455f522b437ffea47881120c9dcd87593561bf22f402e01506fa4bdbbd",
+      "size": 83293
+    },
+    {
+      "path": "BepInEx/core/HarmonyXInterop.dll",
+      "sha256": "7ce1342d3afa0334b59a3e38c0aed15e162b9abe9d46f95f34be44af47f3b493",
+      "size": 23552
+    },
+    {
+      "path": "BepInEx/core/Mono.Cecil.Mdb.dll",
+      "sha256": "5896d1898f616701fff18f3b2c71e6b844d2390ef9f41e1c5fccce8cb27c698e",
+      "size": 43008
+    },
+    {
+      "path": "BepInEx/core/Mono.Cecil.Pdb.dll",
+      "sha256": "174db44a067f58561510af746f3caeb032037762c57a31c8d9ee32db25174984",
+      "size": 86528
+    },
+    {
+      "path": "BepInEx/core/Mono.Cecil.Rocks.dll",
+      "sha256": "54ac539fb5ddc8b44c0e9acd0fcb7324f89d1a072edf8ebc1b06dd691e3d3927",
+      "size": 27648
+    },
+    {
+      "path": "BepInEx/core/Mono.Cecil.dll",
+      "sha256": "7ae470288fff4a402899c254d0a76cefef55877f5c54f96e83c797cc5bb6e2f6",
+      "size": 339456
+    },
+    {
+      "path": "BepInEx/core/MonoMod.RuntimeDetour.dll",
+      "sha256": "40e49bb314391cd7bddc2644f8553eeba92c194b940836b103df16955c464e0c",
+      "size": 105984
+    },
+    {
+      "path": "BepInEx/core/MonoMod.RuntimeDetour.xml",
+      "sha256": "14c82b29774dab71c021960c03dec378a756429cdcc7382c26c3d047110be618",
+      "size": 8768
+    },
+    {
+      "path": "BepInEx/core/MonoMod.Utils.dll",
+      "sha256": "9d1495f147ac93c4f81f84538c1a326e8f8a6aefc78d6289d798f3ce1162c5e9",
+      "size": 187904
+    },
+    {
+      "path": "BepInEx/core/MonoMod.Utils.xml",
+      "sha256": "23bce9232d64773e08fa3da46ea93bace7c8fa0bf554a5a493163f06c1cdd10c",
+      "size": 72619
+    },
+    {
+      "path": "BepInEx/patchers/BazaarKoUpdate.Patcher.dll",
+      "sha256": "a0e8bfd9d211d29f2dd90d9220c1068595965a6618b4aec9f0757279b3f75d53",
+      "size": 9728
+    },
+    {
+      "path": "BepInEx/plugins/BazaarItemLock.dll",
+      "sha256": "021232b90bd21764b145fd82ee6751992b38e16adfd033c5684ec316dec1c5e8",
+      "size": 27136
+    },
+    {
+      "path": "BepInEx/plugins/BazaarKoUpdate.dll",
+      "sha256": "8896678cea6c113b27359863e774394c85f186bc19ac04771c74d8250cf2e8b9",
+      "size": 24064
+    },
+    {
+      "path": "BepInEx/plugins/BazaarPlusPlus.KoreanSlider.dll",
+      "sha256": "76364896d1f10abd601fc43f73e25631324724126d0088b548a17ac0b43aca0c",
+      "size": 12288
+    },
+    {
+      "path": "BepInEx/plugins/BazaarPlusPlus.Localization.dll",
+      "sha256": "767c7cb2319444bc104e53eb500c0c844b0912804f33f826a5ff371572f8dae0",
+      "size": 19456
+    },
+    {
+      "path": "BepInEx/plugins/BazaarPlusPlus.ModApi.dll",
+      "sha256": "e4333eaba739d641d3b496d304413f556efc914b363d8c46d99bc6bdb049ebc6",
+      "size": 107008
+    },
+    {
+      "path": "BepInEx/plugins/BazaarPlusPlus.Storage.dll",
+      "sha256": "7ea53dee71e0c14a1805ee95d6c42fef87af6eaf58a271ed666e2222d677da16",
+      "size": 95744
+    },
+    {
+      "path": "BepInEx/plugins/BazaarPlusPlus.dll",
+      "sha256": "417e6235fbe5d6a76c1514f8d0aa3adbafa3573d318911c13fc145674949fcc2",
+      "size": 5346304
+    },
+    {
+      "path": "BepInEx/plugins/BazaarPlusPlus.history-database.json",
+      "sha256": "91eb7403c30e60e48db848afe08d1d57128e43bffced5f1a03857e0fe533fda0",
+      "size": 92
+    },
+    {
+      "path": "BepInEx/plugins/BazaarPlusPlus.version",
+      "sha256": "127f545fb6c50622a1eb5aef489b388843b2af8ec8d0ae92961fc21caba36b59",
+      "size": 12
+    },
+    {
+      "path": "BepInEx/plugins/BazaarTagTools.dll",
+      "sha256": "4f2f3ce2d622bf9d6c3ce2277d34030a6a2cb266206456411e2a03f559696a48",
+      "size": 58368
+    },
+    {
+      "path": "BepInEx/plugins/BazaarVolumeBoost.dll",
+      "sha256": "275590a3aa45c97746eb94fe0c303daae31cb56d07b4a265558df009c404bf89",
+      "size": 28160
+    },
+    {
+      "path": "BepInEx/plugins/Microsoft.Data.Sqlite.dll",
+      "sha256": "f7e147a62a090a68f4b76623204a1c5a1b02768c96d844ef9f454854008dfe9e",
+      "size": 173880
+    },
+    {
+      "path": "BepInEx/plugins/SQLitePCLRaw.batteries_v2.dll",
+      "sha256": "e83aed1d42d8ae806abeb02f0233a477275b82b5db92c92aa0c243255ab6a793",
+      "size": 5632
+    },
+    {
+      "path": "BepInEx/plugins/SQLitePCLRaw.core.dll",
+      "sha256": "3c55cf9ba9784469375c625608af772b85a352ec91723fe2a882532fdeb7cfc9",
+      "size": 51712
+    },
+    {
+      "path": "BepInEx/plugins/SQLitePCLRaw.provider.e_sqlite3.dll",
+      "sha256": "c97285eff57ddfbc6418c4e1278e73f1703e902071ce59af98318b010e0b39ff",
+      "size": 40960
+    },
+    {
+      "path": "BepInEx/plugins/SixLabors.ImageSharp.dll",
+      "sha256": "7c206c21a178864c269682e848bc8d86dd9ba132bf87bfa21f63e8d7c20a34f6",
+      "size": 1719808
+    },
+    {
+      "path": "BepInEx/plugins/System.Buffers.dll",
+      "sha256": "c65fff603b283dc966d1a8b730c11d5e5e750e8021bd24640612f6cc3f2c6fb7",
+      "size": 21376
+    },
+    {
+      "path": "BepInEx/plugins/System.Memory.dll",
+      "sha256": "11590d8bb3b12f29f4202b3ef8593229a5cd6debb61e76cba9ac5493a82ee382",
+      "size": 142752
+    },
+    {
+      "path": "BepInEx/plugins/System.Numerics.Vectors.dll",
+      "sha256": "17924e5dc87e0d6229d2dd0bcfc1fdfabd820901b13a68baa89fcb80c4d1a67f",
+      "size": 163464
+    },
+    {
+      "path": "BepInEx/plugins/System.Text.Encoding.CodePages.dll",
+      "sha256": "51ce387387a8998b2f27a55a82175a696a46ff294e0dc33bf2690e2d03e456cf",
+      "size": 756096
+    },
+    {
+      "path": "BepInEx/plugins/e_sqlite3.dll",
+      "sha256": "aabf85d7a8b416fb15203cb754fcfc9858c8f1dd3bbc7eab82335f6c362ba0d6",
+      "size": 1911296
+    },
+    {
+      "path": "LICENSES/BazaarPlusPlus-MIT.txt",
+      "sha256": "1e659ae362dcad904e7ed6b65861078106f052eb9ae110eca61c406bb0c62931",
+      "size": 1088
+    },
+    {
+      "path": "LICENSES/BepInEx-LGPL-2.1.txt",
+      "sha256": "db927f00c4aa1a11845aa3d05b5712a3e6497cd38558d84239b168a1086b1ce2",
+      "size": 25818
+    },
+    {
+      "path": "README-KO.md",
+      "sha256": "fe014c118aec48d618f07f127fc90ba938f834a8891a39ef9c777108756fef74",
+      "size": 13255
+    },
+    {
+      "path": "doorstop_config.ini",
+      "sha256": "4d5c6dfa0f771c6a5b1b0c559aca0bd0ece7d08b08fff894708dc3b73ce73cfc",
+      "size": 1460
+    },
+    {
+      "path": "winhttp.dll",
+      "sha256": "8c6cdbc38836dee87e3368f5de1994d7c0ccebf29e4ce7aba3c0981f9375412c",
+      "size": 26112
+    }
+  ]
+}
