@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "5.3.0-ko.3.2",
+  "version": "5.3.0-ko.3.3",
   "bppVersion": "5.3.0.prod",
-  "notes": "판매 확인 창 여백과 버튼 정렬",
+  "notes": "업데이트 확인을 시작 즉시 하도록 변경",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v5.3.0-ko.3.2/BazaarPlusPlusKorean_v5.3.0-ko.3.2.zip",
-  "packageSha256": "603bc1e87dc225c6836f6461c83a8086a88d334e815fb980fee792f94a8ddac3",
-  "packageSize": 5323057,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v5.3.0-ko.3.3/BazaarPlusPlusKorean_v5.3.0-ko.3.3.zip",
+  "packageSha256": "c97cb23125e9e76cf33c5f287465e73bdcac42bddbb1d81a637e44674f4928f9",
+  "packageSize": 5323124,
   "files": [
     {
       "path": "BazaarPlusPlusV5/voice-lines.json",
@@ -115,7 +115,7 @@
     },
     {
       "path": "BepInEx/plugins/BazaarKoUpdate.dll",
-      "sha256": "10ed3c9b8dd076c263d191ce60a443cbef57f8e454f7848b1947f9957786bd4c",
+      "sha256": "9af39d5226f86f5fbb941fbf9a151ebcb90c8caa2fdb8a8d09d0bd1b0bd9e4d6",
       "size": 27648
     },
     {
@@ -225,8 +225,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "6ed505243a1bb55c5de50ee441c2cdcb133f7e6462de63b56a5f3438d75e060e",
-      "size": 14301
+      "sha256": "f8b4f08f93455ffa0ca3449d770094671966e8c9761fbb8086650f7188e74793",
+      "size": 14310
     },
     {
       "path": "doorstop_config.ini",
