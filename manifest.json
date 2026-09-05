@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "5.3.0-ko.3.6",
+  "version": "5.3.0-ko.3.7",
   "bppVersion": "5.3.0.prod",
-  "notes": "알림 21:9 안전 영역, 확인 간격 기본값",
+  "notes": "스크롤 겹침 수정, 태그→유형",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v5.3.0-ko.3.6/BazaarPlusPlusKorean_v5.3.0-ko.3.6.zip",
-  "packageSha256": "33098b806f4aeb3c7e4a80e920efea8d4628e6952c854d13e51475f6199665f4",
-  "packageSize": 5327519,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v5.3.0-ko.3.7/BazaarPlusPlusKorean_v5.3.0-ko.3.7.zip",
+  "packageSha256": "2356fa0700c07aaba7028c93d7c2f52db9375b732aeb04036f86012eb4de0c3f",
+  "packageSize": 5327537,
   "files": [
     {
       "path": "BazaarPlusPlusV5/voice-lines.json",
@@ -155,7 +155,7 @@
     },
     {
       "path": "BepInEx/plugins/BazaarTagTools.dll",
-      "sha256": "6ec7c44245047e453d02aa93ffedaa64f48d6e416c142dd66991919d1df67fd3",
+      "sha256": "8913c9f276cceef5dc06487e30bf54f60b2f295bbc08bb9fd6dc35fc9f4ffe6e",
       "size": 58368
     },
     {
@@ -225,7 +225,7 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "c3ee154032efa25a56a09e210eed8d6e12ffb4b3ae3e3a09e18d0965b3c486b7",
+      "sha256": "5fb35fd7672c5240a9b2642c8a299eb0a7b430c3a905b7f4135710c5bd47b217",
       "size": 14931
     },
     {
