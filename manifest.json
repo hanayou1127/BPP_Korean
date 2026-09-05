@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "5.3.0-ko.3.4",
+  "version": "5.3.0-ko.3.5",
   "bppVersion": "5.3.0.prod",
-  "notes": "자막이 안 나오던 문제 수정",
+  "notes": "업데이트 알림 추가",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v5.3.0-ko.3.4/BazaarPlusPlusKorean_v5.3.0-ko.3.4.zip",
-  "packageSha256": "4260f7919f4f62de15b7dc0b7569ef3ae3bad06e2bcdec313d7a2009281ac882",
-  "packageSize": 5323310,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v5.3.0-ko.3.5/BazaarPlusPlusKorean_v5.3.0-ko.3.5.zip",
+  "packageSha256": "cfc2236d72104b5c355e1ef26d6d393b10e3e060db1e8edddb36c4bb92c5d9ad",
+  "packageSize": 5327265,
   "files": [
     {
       "path": "BazaarPlusPlusV5/voice-lines.json",
@@ -115,8 +115,8 @@
     },
     {
       "path": "BepInEx/plugins/BazaarKoUpdate.dll",
-      "sha256": "34b57fc58e51292918e79313270dfae73e04d5dbc3d1ac5fd690607d69f3eed2",
-      "size": 29696
+      "sha256": "5bd43f127a26f19ead2a2b4d559cce8c356724b29cf5589b219f1c3e7161d745",
+      "size": 36864
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.KoreanSlider.dll",
@@ -225,8 +225,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "f8b4f08f93455ffa0ca3449d770094671966e8c9761fbb8086650f7188e74793",
-      "size": 14310
+      "sha256": "94472ac7601dfcefd330f4d03f827e52ec209c10a235e0b8a44dc91841245b50",
+      "size": 14905
     },
     {
       "path": "doorstop_config.ini",
