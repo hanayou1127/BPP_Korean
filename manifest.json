@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "5.3.0-ko.3.3",
+  "version": "5.3.0-ko.3.4",
   "bppVersion": "5.3.0.prod",
-  "notes": "업데이트 확인을 시작 즉시 하도록 변경",
+  "notes": "자막이 안 나오던 문제 수정",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v5.3.0-ko.3.3/BazaarPlusPlusKorean_v5.3.0-ko.3.3.zip",
-  "packageSha256": "c97cb23125e9e76cf33c5f287465e73bdcac42bddbb1d81a637e44674f4928f9",
-  "packageSize": 5323124,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v5.3.0-ko.3.4/BazaarPlusPlusKorean_v5.3.0-ko.3.4.zip",
+  "packageSha256": "4260f7919f4f62de15b7dc0b7569ef3ae3bad06e2bcdec313d7a2009281ac882",
+  "packageSize": 5323310,
   "files": [
     {
       "path": "BazaarPlusPlusV5/voice-lines.json",
@@ -115,8 +115,8 @@
     },
     {
       "path": "BepInEx/plugins/BazaarKoUpdate.dll",
-      "sha256": "9af39d5226f86f5fbb941fbf9a151ebcb90c8caa2fdb8a8d09d0bd1b0bd9e4d6",
-      "size": 27648
+      "sha256": "34b57fc58e51292918e79313270dfae73e04d5dbc3d1ac5fd690607d69f3eed2",
+      "size": 29696
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.KoreanSlider.dll",
