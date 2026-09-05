@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "5.3.0-ko.3",
+  "version": "5.3.0-ko.3.2",
   "bppVersion": "5.3.0.prod",
-  "notes": "버전 표시 정리, 진단 로그 제거",
+  "notes": "판매 확인 창 여백과 버튼 정렬",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v5.3.0-ko.3/BazaarPlusPlusKoreanv5.3.0.zip",
-  "packageSha256": "15a329b8623129de9e9c5bd39d8acadd55ff648ccc4cc6f01234e83abfc60267",
-  "packageSize": 5322849,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v5.3.0-ko.3.2/BazaarPlusPlusKorean_v5.3.0-ko.3.2.zip",
+  "packageSha256": "603bc1e87dc225c6836f6461c83a8086a88d334e815fb980fee792f94a8ddac3",
+  "packageSize": 5323057,
   "files": [
     {
       "path": "BazaarPlusPlusV5/voice-lines.json",
@@ -115,7 +115,7 @@
     },
     {
       "path": "BepInEx/plugins/BazaarKoUpdate.dll",
-      "sha256": "e64de423e1dca03bee2e504833a694c2965f88a4b11d147b6b4b53e4b5f8dcb5",
+      "sha256": "10ed3c9b8dd076c263d191ce60a443cbef57f8e454f7848b1947f9957786bd4c",
       "size": 27648
     },
     {
@@ -155,7 +155,7 @@
     },
     {
       "path": "BepInEx/plugins/BazaarTagTools.dll",
-      "sha256": "87cb3b937c43d3616412e2d2ea0d53e335a7fc7d8414eb67025ae70a1de3fc24",
+      "sha256": "2c223734ca519fc04c0bc3b76106de4c0c7734588853db5e4bb46180cb423611",
       "size": 58368
     },
     {
@@ -225,8 +225,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "5aa954752e8a8118f590c16fde77c4a4187e7115f5ae00d2f51d3c9534a6956d",
-      "size": 13964
+      "sha256": "6ed505243a1bb55c5de50ee441c2cdcb133f7e6462de63b56a5f3438d75e060e",
+      "size": 14301
     },
     {
       "path": "doorstop_config.ini",
