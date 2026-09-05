@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "5.3.0-ko.3.5",
+  "version": "5.3.0-ko.3.6",
   "bppVersion": "5.3.0.prod",
-  "notes": "업데이트 알림 추가",
+  "notes": "알림 21:9 안전 영역, 확인 간격 기본값",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v5.3.0-ko.3.5/BazaarPlusPlusKorean_v5.3.0-ko.3.5.zip",
-  "packageSha256": "cfc2236d72104b5c355e1ef26d6d393b10e3e060db1e8edddb36c4bb92c5d9ad",
-  "packageSize": 5327265,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v5.3.0-ko.3.6/BazaarPlusPlusKorean_v5.3.0-ko.3.6.zip",
+  "packageSha256": "33098b806f4aeb3c7e4a80e920efea8d4628e6952c854d13e51475f6199665f4",
+  "packageSize": 5327519,
   "files": [
     {
       "path": "BazaarPlusPlusV5/voice-lines.json",
@@ -115,8 +115,8 @@
     },
     {
       "path": "BepInEx/plugins/BazaarKoUpdate.dll",
-      "sha256": "5bd43f127a26f19ead2a2b4d559cce8c356724b29cf5589b219f1c3e7161d745",
-      "size": 36864
+      "sha256": "ad949fe8f9f2b6acab69a75e316f37970fb10c02edb3463d125c21521e26b837",
+      "size": 37376
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.KoreanSlider.dll",
@@ -155,7 +155,7 @@
     },
     {
       "path": "BepInEx/plugins/BazaarTagTools.dll",
-      "sha256": "2c223734ca519fc04c0bc3b76106de4c0c7734588853db5e4bb46180cb423611",
+      "sha256": "6ec7c44245047e453d02aa93ffedaa64f48d6e416c142dd66991919d1df67fd3",
       "size": 58368
     },
     {
@@ -225,8 +225,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "94472ac7601dfcefd330f4d03f827e52ec209c10a235e0b8a44dc91841245b50",
-      "size": 14905
+      "sha256": "c3ee154032efa25a56a09e210eed8d6e12ffb4b3ae3e3a09e18d0965b3c486b7",
+      "size": 14931
     },
     {
       "path": "doorstop_config.ini",
