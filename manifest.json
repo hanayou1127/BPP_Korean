@@ -227,16 +227,6 @@
       "path": "README-KO.md",
       "sha256": "a5668320580b4e3c3b7cb54dfa2db61446098b25a09025c29e6a4d6f261d0ce6",
       "size": 16249
-    },
-    {
-      "path": "doorstop_config.ini",
-      "sha256": "4d5c6dfa0f771c6a5b1b0c559aca0bd0ece7d08b08fff894708dc3b73ce73cfc",
-      "size": 1460
-    },
-    {
-      "path": "winhttp.dll",
-      "sha256": "8c6cdbc38836dee87e3368f5de1994d7c0ccebf29e4ce7aba3c0981f9375412c",
-      "size": 26112
     }
   ]
 }
