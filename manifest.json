@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "5.3.0-ko.4",
-  "bppVersion": "5.3.0.prod",
-  "notes": "유형 격자",
+  "version": "5.4.0-ko.1",
+  "bppVersion": "5.4.0.prod",
+  "notes": "",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v5.3.0-ko.4/BazaarPlusPlusKorean_v5.3.0-ko.4.zip",
-  "packageSha256": "aaee2cf4090b3f01e9e6f50c48907f5ea61ba8dcfb8052fb10f92abf7477dfcc",
-  "packageSize": 5333609,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v5.4.0-ko.1/BazaarPlusPlusKorean_v5.4.0-ko.1.zip",
+  "packageSha256": "8d62592564d233c19d96328ae355f7cf40512e82b20a65d7b0b5aa984c6ce824",
+  "packageSize": 5673766,
   "files": [
     {
       "path": "BazaarPlusPlusV5/voice-lines.json",
@@ -125,23 +125,23 @@
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.Localization.dll",
-      "sha256": "767c7cb2319444bc104e53eb500c0c844b0912804f33f826a5ff371572f8dae0",
-      "size": 19456
+      "sha256": "305e10b66f5f94334c4713ce0cdb76ed245ff713fd36fa25966197563aa415eb",
+      "size": 18944
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.ModApi.dll",
-      "sha256": "e4333eaba739d641d3b496d304413f556efc914b363d8c46d99bc6bdb049ebc6",
+      "sha256": "0b5dda1590d495afad17fdc0d9d8408aff718db72c87eeeacb0cc57c6b8d14c5",
       "size": 107008
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.Storage.dll",
-      "sha256": "7ea53dee71e0c14a1805ee95d6c42fef87af6eaf58a271ed666e2222d677da16",
-      "size": 95744
+      "sha256": "a29e32b512905573dfe7a8200a25531b97b15b95465833b36f758fe3a4a7a96b",
+      "size": 94720
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.dll",
-      "sha256": "417e6235fbe5d6a76c1514f8d0aa3adbafa3573d318911c13fc145674949fcc2",
-      "size": 5346304
+      "sha256": "7eca71d96a129f1e3abfae5f1742386bcf66e3a75576d52dfd066e26fe9d3dd0",
+      "size": 5675520
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.history-database.json",
@@ -150,7 +150,7 @@
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.version",
-      "sha256": "127f545fb6c50622a1eb5aef489b388843b2af8ec8d0ae92961fc21caba36b59",
+      "sha256": "1aeae5f2a3626ae2befab16d0217bdd989665b42c0ce3b17eabb28bd132b29d4",
       "size": 12
     },
     {
@@ -225,8 +225,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "9638c260dbbf2082a393618e0aace30a563cd08bf2785a24adf5dc4c22d0a572",
-      "size": 16188
+      "sha256": "a5668320580b4e3c3b7cb54dfa2db61446098b25a09025c29e6a4d6f261d0ce6",
+      "size": 16249
     },
     {
       "path": "doorstop_config.ini",
