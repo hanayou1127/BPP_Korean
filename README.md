@@ -1,6 +1,6 @@
 # The Bazaar — BazaarPlusPlus 한글판
 
-[BazaarPlusPlus](https://bazaarplusplus.com) 공식 v5.3.0 빌드에 한글 패치를 적용한 배포본입니다.
+[BazaarPlusPlus](https://bazaarplusplus.com) 공식 v5.7.0 빌드에 한글 패치를 적용한 배포본입니다.
 
 ## 한글판 추가 기능
 

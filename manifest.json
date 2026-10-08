@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "5.4.0-ko.1",
-  "bppVersion": "5.4.0.prod",
+  "version": "5.7.0-ko.1",
+  "bppVersion": "5.7.0.prod",
   "notes": "",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v5.4.0-ko.1/BazaarPlusPlusKorean_v5.4.0-ko.1.zip",
-  "packageSha256": "8d62592564d233c19d96328ae355f7cf40512e82b20a65d7b0b5aa984c6ce824",
-  "packageSize": 5673766,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v5.7.0-ko.1/BazaarPlusPlusKorean_v5.7.0-ko.1.zip",
+  "packageSha256": "9b40f46b4fc716e5abe5ad9a443088c33f25e7ae9d53ee481c79753ab19e3407",
+  "packageSize": 5675066,
   "files": [
     {
       "path": "BazaarPlusPlusV5/voice-lines.json",
@@ -125,32 +125,32 @@
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.Localization.dll",
-      "sha256": "305e10b66f5f94334c4713ce0cdb76ed245ff713fd36fa25966197563aa415eb",
-      "size": 18944
+      "sha256": "1fc3516c36169f783f989b6e10dbebbeb4aa2a0022314ada424f21fdfaa32595",
+      "size": 48640
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.ModApi.dll",
-      "sha256": "0b5dda1590d495afad17fdc0d9d8408aff718db72c87eeeacb0cc57c6b8d14c5",
-      "size": 107008
+      "sha256": "bdc468da4f8c7581c4f7a65bb162b1b3b1f50c130b8c1f7a7085cf25e9f6a442",
+      "size": 104960
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.Storage.dll",
-      "sha256": "a29e32b512905573dfe7a8200a25531b97b15b95465833b36f758fe3a4a7a96b",
-      "size": 94720
+      "sha256": "dc01dd17ae0ac0f030f22936c0e18eb9e568d17e06cd57fa9996189bc6eb615e",
+      "size": 105472
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.dll",
-      "sha256": "7eca71d96a129f1e3abfae5f1742386bcf66e3a75576d52dfd066e26fe9d3dd0",
-      "size": 5675520
+      "sha256": "7041ffa4a8e456d67f9210bae8057341e66a3de480f90a213f9b723f9d9b7c2a",
+      "size": 5337600
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.history-database.json",
-      "sha256": "91eb7403c30e60e48db848afe08d1d57128e43bffced5f1a03857e0fe533fda0",
-      "size": 92
+      "sha256": "c0c6f429715c8d14367933074ea13e9fd5f3ea1f77797a8302a84fba9a6de37b",
+      "size": 60
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.version",
-      "sha256": "1aeae5f2a3626ae2befab16d0217bdd989665b42c0ce3b17eabb28bd132b29d4",
+      "sha256": "83676218132a2e0d6bf06069c8ec764506f80a6c90dfc84bd2fff76bb7e066a8",
       "size": 12
     },
     {
@@ -165,22 +165,22 @@
     },
     {
       "path": "BepInEx/plugins/Microsoft.Data.Sqlite.dll",
-      "sha256": "f7e147a62a090a68f4b76623204a1c5a1b02768c96d844ef9f454854008dfe9e",
-      "size": 173880
+      "sha256": "46fb966bac1c3ddcbe19e02a435e4fa86cf9428686f0c672db3ab0fc6eff16dc",
+      "size": 175928
     },
     {
       "path": "BepInEx/plugins/SQLitePCLRaw.batteries_v2.dll",
-      "sha256": "e83aed1d42d8ae806abeb02f0233a477275b82b5db92c92aa0c243255ab6a793",
+      "sha256": "1ee3c6ff4d39171690d6ff6f84b4d876ed038ca28e39bb6e74995f52d2aacf8b",
       "size": 5632
     },
     {
       "path": "BepInEx/plugins/SQLitePCLRaw.core.dll",
-      "sha256": "3c55cf9ba9784469375c625608af772b85a352ec91723fe2a882532fdeb7cfc9",
+      "sha256": "4eb1f407f1a8ef795853c95af73edfb9aa7777e8c11aafe04612691337ccea08",
       "size": 51712
     },
     {
       "path": "BepInEx/plugins/SQLitePCLRaw.provider.e_sqlite3.dll",
-      "sha256": "c97285eff57ddfbc6418c4e1278e73f1703e902071ce59af98318b010e0b39ff",
+      "sha256": "7cd7ef412249b59dd8a8483ddd5e1c33c5c5cf91e9a3937d986e8387be20415b",
       "size": 40960
     },
     {
@@ -194,11 +194,6 @@
       "size": 21376
     },
     {
-      "path": "BepInEx/plugins/System.Memory.dll",
-      "sha256": "11590d8bb3b12f29f4202b3ef8593229a5cd6debb61e76cba9ac5493a82ee382",
-      "size": 142752
-    },
-    {
       "path": "BepInEx/plugins/System.Numerics.Vectors.dll",
       "sha256": "17924e5dc87e0d6229d2dd0bcfc1fdfabd820901b13a68baa89fcb80c4d1a67f",
       "size": 163464
@@ -210,8 +205,8 @@
     },
     {
       "path": "BepInEx/plugins/e_sqlite3.dll",
-      "sha256": "aabf85d7a8b416fb15203cb754fcfc9858c8f1dd3bbc7eab82335f6c362ba0d6",
-      "size": 1911296
+      "sha256": "6ad8e149f8ce3ed3716402b4b3a2268ebbdc7b64391b5fafed747e03bb1b9418",
+      "size": 1972224
     },
     {
       "path": "LICENSES/BazaarPlusPlus-MIT.txt",
@@ -225,8 +220,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "a5668320580b4e3c3b7cb54dfa2db61446098b25a09025c29e6a4d6f261d0ce6",
-      "size": 16249
+      "sha256": "adb1bc783cc8631a40fa4521449d2bcfcfb21d82cdbaf881b83016655bee060f",
+      "size": 16518
     }
   ]
 }
