@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "5.7.0-ko.1",
+  "version": "5.7.0-ko.2",
   "bppVersion": "5.7.0.prod",
   "notes": "",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v5.7.0-ko.1/BazaarPlusPlusKorean_v5.7.0-ko.1.zip",
-  "packageSha256": "9b40f46b4fc716e5abe5ad9a443088c33f25e7ae9d53ee481c79753ab19e3407",
-  "packageSize": 5675066,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v5.7.0-ko.2/BazaarPlusPlusKorean_v5.7.0-ko.2.zip",
+  "packageSha256": "d5047693fa328b20acf49b7e46d3b2a22e7e8086c33747e90e53e08a7a8a5dbe",
+  "packageSize": 5676327,
   "files": [
     {
       "path": "BazaarPlusPlusV5/voice-lines.json",
@@ -155,8 +155,8 @@
     },
     {
       "path": "BepInEx/plugins/BazaarTagTools.dll",
-      "sha256": "6b24b1e1b6f1d9456c17101cebb75300ec52dd11f9d78da35a6d908eb9c7e555",
-      "size": 72192
+      "sha256": "1a9bc7b8d5445b949adeab177924f607e117f945f5d17ff9fd4a3a054f4369df",
+      "size": 75264
     },
     {
       "path": "BepInEx/plugins/BazaarVolumeBoost.dll",
