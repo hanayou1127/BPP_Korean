@@ -1,17 +1,57 @@
 {
   "schema": 1,
-  "version": "5.7.0-ko.2",
-  "bppVersion": "5.7.0.prod",
-  "notes": "",
+  "version": "6.2.0-ko.1",
+  "bppVersion": "6.2.0.prod",
+  "notes": "BazaarPlusPlus 6.2.0 기반. 이 버전은 직접 설치해야 합니다(공식 6.2.0 설치 프로그램 → 한글판 zip 덮어쓰기).",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v5.7.0-ko.2/BazaarPlusPlusKorean_v5.7.0-ko.2.zip",
-  "packageSha256": "d5047693fa328b20acf49b7e46d3b2a22e7e8086c33747e90e53e08a7a8a5dbe",
-  "packageSize": 5676327,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.2.0-ko.1/BazaarPlusPlusKorean_v6.2.0-ko.1.zip",
+  "packageSha256": "9930f8c032182c337cde7b4a6ef093153cd86c21e8f1776b65aebfa006fd110c",
+  "packageSize": 16180054,
   "files": [
     {
-      "path": "BazaarPlusPlusV5/voice-lines.json",
-      "sha256": "84b79e8398b8ad6405f1f8876e1a15b192207284005edc063de40fd3bead31f9",
-      "size": 1293610
+      "path": "BazaarPlusPlusV6/fonts/DNFForgedBlade-Medium.otf",
+      "sha256": "5697acda64d0c7d1656608423783051002d0fb1082efc93615cd9a3b40aa985d",
+      "size": 3770676
+    },
+    {
+      "path": "BazaarPlusPlusV6/fonts/Maplestory-Bold.otf",
+      "sha256": "b1eb822fec7963a34689bf6381e4c4bf0fcfde1ad5c90125d800345cbcfd9ced",
+      "size": 698184
+    },
+    {
+      "path": "BazaarPlusPlusV6/fonts/NEXONLv1Gothic-Bold.otf",
+      "sha256": "0eaa11e4b19c2904cc9baa6f40befc75df7ced8751fead22d67a6f408c256096",
+      "size": 897032
+    },
+    {
+      "path": "BazaarPlusPlusV6/fonts/NEXONWarhaven-Regular.otf",
+      "sha256": "4294b80ac0c68e25a2fd17d5de04264100431e1ef5b4163d20ae29b17155b5c3",
+      "size": 1189508
+    },
+    {
+      "path": "BazaarPlusPlusV6/fonts/NanumGothic-Bold.ttf",
+      "sha256": "f96298f9fb18e364d2370f4c3ce948ac67a2b61af992d7234bc15c42b033c674",
+      "size": 2073868
+    },
+    {
+      "path": "BazaarPlusPlusV6/fonts/NanumMyeongjo-Bold.ttf",
+      "sha256": "bc9ed8e60d93fe6db054b8fb988481b625f2eef8cb2317ad0e9834681b8fe3f3",
+      "size": 3074720
+    },
+    {
+      "path": "BazaarPlusPlusV6/fonts/NotoSansKR-Medium.otf",
+      "sha256": "b46988ef13e8bac08f3933af686eaf770972994f9b6d335be0184d60169b5431",
+      "size": 4669816
+    },
+    {
+      "path": "BazaarPlusPlusV6/fonts/Pretendard-SemiBold.otf",
+      "sha256": "c89bc43027dc7cde5726e96223376f8eec09302b2fc1f8147fd5b57cfc376118",
+      "size": 1583704
+    },
+    {
+      "path": "BazaarPlusPlusV6/voice-lines.json",
+      "sha256": "a08ee09ca68f7a30e4a9dc8604169b5cd75c8393be11b310a9aadbd73a35e9f5",
+      "size": 1319003
     },
     {
       "path": "BepInEx/core/0Harmony.dll",
@@ -114,9 +154,19 @@
       "size": 27136
     },
     {
+      "path": "BepInEx/plugins/BazaarKoFontStyle.dll",
+      "sha256": "2bda362c977fd5b3728aae8aacb2159af1d91601f809b492dfe1f2b6fffd6dc8",
+      "size": 36352
+    },
+    {
       "path": "BepInEx/plugins/BazaarKoUpdate.dll",
-      "sha256": "ad949fe8f9f2b6acab69a75e316f37970fb10c02edb3463d125c21521e26b837",
-      "size": 37376
+      "sha256": "aaa8fd407874afc1cd308fb0c3fbc51e6987af409e6fc169bd70e1041b76b674",
+      "size": 38400
+    },
+    {
+      "path": "BepInEx/plugins/BazaarPlusPlus.Core.dll",
+      "sha256": "6ea9bf6f2e4e3896218791234c0b67ab57db29d18bf21f317db3741e35b41e4b",
+      "size": 1564672
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.KoreanSlider.dll",
@@ -124,39 +174,39 @@
       "size": 12288
     },
     {
-      "path": "BepInEx/plugins/BazaarPlusPlus.Localization.dll",
-      "sha256": "1fc3516c36169f783f989b6e10dbebbeb4aa2a0022314ada424f21fdfaa32595",
-      "size": 48640
-    },
-    {
       "path": "BepInEx/plugins/BazaarPlusPlus.ModApi.dll",
-      "sha256": "bdc468da4f8c7581c4f7a65bb162b1b3b1f50c130b8c1f7a7085cf25e9f6a442",
+      "sha256": "a0c8ea38318516013bf947ada09912ed63c244dba61992bb1256e1d37c22f75d",
       "size": 104960
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.Storage.dll",
-      "sha256": "dc01dd17ae0ac0f030f22936c0e18eb9e568d17e06cd57fa9996189bc6eb615e",
-      "size": 105472
+      "sha256": "42bfe84cf5694e8b83aaa2907ff8c295bd75f0a31e2219d735665529a3706b6a",
+      "size": 196096
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.dll",
-      "sha256": "7041ffa4a8e456d67f9210bae8057341e66a3de480f90a213f9b723f9d9b7c2a",
-      "size": 5337600
+      "sha256": "785b9bd9d11fd8df1cb47bf25a7a56bd2fdb52eb064e084e1f1b72edb90e6165",
+      "size": 5648384
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.history-database.json",
-      "sha256": "c0c6f429715c8d14367933074ea13e9fd5f3ea1f77797a8302a84fba9a6de37b",
-      "size": 60
+      "sha256": "9f39aa99aacdf9d1b1b082e48e312cf29b7ff2f5b1f33a0e71e8121824180efa",
+      "size": 107
+    },
+    {
+      "path": "BepInEx/plugins/BazaarPlusPlus.managed-manifest.txt",
+      "sha256": "9333dd9d948d6bba9d766ffe52dab5fa88a9ad6f7508dc3247b332a468ea2f7e",
+      "size": 1863
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.version",
-      "sha256": "83676218132a2e0d6bf06069c8ec764506f80a6c90dfc84bd2fff76bb7e066a8",
+      "sha256": "a4f6e31ecc81beb0a4a478f4e36bc286f2ff791bfcefd9d1caa295d429ceee11",
       "size": 12
     },
     {
       "path": "BepInEx/plugins/BazaarTagTools.dll",
-      "sha256": "1a9bc7b8d5445b949adeab177924f607e117f945f5d17ff9fd4a3a054f4369df",
-      "size": 75264
+      "sha256": "9c26d1b84b778ce5fe92b5a9593f3d40d44a778622f3e411142a4bce1308e45b",
+      "size": 80384
     },
     {
       "path": "BepInEx/plugins/BazaarVolumeBoost.dll",
@@ -219,9 +269,39 @@
       "size": 25818
     },
     {
+      "path": "LICENSES/fonts/NEXON-FONTS.txt",
+      "sha256": "d6ab44f251a4a02e426a122c28aa453b6e60e9e68152de223f0c4bcfaabfba62",
+      "size": 1774
+    },
+    {
+      "path": "LICENSES/fonts/NanumGothic-OFL.txt",
+      "sha256": "eeacf16032901d0ed0456876ec77b8f0fda6b3fecec7d972f8543eb602e6c30f",
+      "size": 4534
+    },
+    {
+      "path": "LICENSES/fonts/NanumMyeongjo-OFL.txt",
+      "sha256": "8eb1c1019fe7fe6d0b6e7d7bbbba1d9cbdd969d8c5f26455708f6cfb8a77284c",
+      "size": 4497
+    },
+    {
+      "path": "LICENSES/fonts/NotoSansKR-LICENSE.txt",
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2",
+      "size": 4301
+    },
+    {
+      "path": "LICENSES/fonts/Pretendard-LICENSE.txt",
+      "sha256": "82e9c8a4b203261f10ddba1296422d64914ff3d4b7bd8a12896d03f0f088d70a",
+      "size": 4816
+    },
+    {
+      "path": "LICENSES/fonts/README.txt",
+      "sha256": "b4e2d5daa5228c1c61625f0badd0dbd2d7951488dc799939ab3d04694c19a22a",
+      "size": 784
+    },
+    {
       "path": "README-KO.md",
-      "sha256": "adb1bc783cc8631a40fa4521449d2bcfcfb21d82cdbaf881b83016655bee060f",
-      "size": 16518
+      "sha256": "453b53ed7e83ff146b98df4c93467ad5fc0a0d2b1afea30b5f8d594e349afb52",
+      "size": 25376
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "contentHash": "sha256:a14358a2a59ef06eee92b607a494775e0d7948cd3967c89d5b042c0c680cda3c",
-  "generatedAt": "2026-09-02T17:18:55Z",
-  "count": 5341,
+  "contentHash": "sha256:a2b97ca58407036be9474791c48709a2c94ba0428e6c91352e656c8cdb0b551f",
+  "generatedAt": "2026-11-03T09:36:02Z",
+  "count": 5438,
   "lines": [
     {
       "stem": "001_Dooley_V5_RunDefeat_03",
@@ -3228,7 +3228,7 @@
     },
     {
       "stem": "090_StelleSlotLevelup08",
-      "english": "Hey Uncle Odie! Maybe I'll be training you soon!",
+      "english": "Hey Uncle Odi! Maybe I'll be training you soon!",
       "chinese": "안녕, 오디 삼촌! 어쩌면 곧 내가 삼촌을 훈련시키게 될지도 몰라!",
       "durationSeconds": 5.42
     },
@@ -3348,7 +3348,7 @@
     },
     {
       "stem": "111_StelleEndofRunHigh1",
-      "english": "See that, Uncle Odie? Building a better bazaar.",
+      "english": "See that, Uncle Odi? Building a better bazaar.",
       "chinese": "봤죠, 오디 삼촌? 더 나은 바자르를 만들고 있어요.",
       "durationSeconds": 3.88
     },
@@ -5820,49 +5820,49 @@
     },
     {
       "stem": "001_AugmentedHillbilly_Defeat_02",
-      "english": "They chose me. Now they may choose you.",
-      "chinese": "그들이 나를 선택했어. 이제 너를 선택할지도 몰라.",
-      "durationSeconds": 3.64
+      "english": "Well, they chose me. Now they may choose you.",
+      "chinese": "그래, 그들이 나를 골랐지. 이제 너를 고를지도 몰라.",
+      "durationSeconds": 4.14
     },
     {
       "stem": "002_AugmentedHillbilly_Victory_03",
-      "english": "You best head on home, City Slick. You lack the synaptic density to process what you're gonna find here.",
+      "english": "You best head on home, City Slick. You lack the synaptic density to process what you'll find here.",
       "chinese": "그냥 집으로 돌아가는 게 좋을 거야, 도시 양반. 여기서 발견할 걸 처리하기엔 네 시냅스 밀도가 부족하거든.",
-      "durationSeconds": 7.46
+      "durationSeconds": 6.49
     },
     {
       "stem": "003_AugmentedHillbilly_EnterFight_03",
-      "english": "Why'd they do this to me? Am I supposed to be a messenger?",
+      "english": "Why did they do this to me? Am I supposed to be a messenger?",
       "chinese": "왜 나한테 이런 짓을 한 거지? 내가 무슨 전령이라도 되는 건가?",
-      "durationSeconds": 4.82
+      "durationSeconds": 4.9
     },
     {
       "stem": "004_AugmentedHillbilly_Defeat_03",
-      "english": "You done whooped me up good! Woo!",
-      "chinese": "제대로 한 방 먹였구먼! 우후!",
-      "durationSeconds": 1.79
+      "english": "Whew, you done whooped me good, but now you face the artifice of far higher beings.",
+      "chinese": "휴, 제대로 한 방 먹였구먼. 하지만 이제 훨씬 높은 존재들의 술수를 상대하게 될 거야.",
+      "durationSeconds": 7.25
     },
     {
       "stem": "005_AugmentedHillbilly_EnterFight_01",
-      "english": "Ugh, you ain't goin' nowhere, city slicker. Because all motion in three-dimensional space is an illusion.",
-      "chinese": "으, 어디 못 가, 도시 양반. 삼차원 공간에서의 모든 움직임은 환상이니까.",
-      "durationSeconds": 6.78
+      "english": "You ain't goin' nowhere, City Slick! Because all motion in three-dimensional space is an illusion.",
+      "chinese": "어디 못 가, 도시 양반! 삼차원 공간에서의 모든 움직임은 환상이니까.",
+      "durationSeconds": 5.3
     },
     {
       "stem": "006_AugmentedHillbilly_Defeat_04",
       "english": "Even their gifts were insufficient. I'll just get on home now.",
       "chinese": "그들이 준 선물조차 충분하지 않았어. 난 그냥 집으로 돌아갈래.",
-      "durationSeconds": 4.03
+      "durationSeconds": 5.06
     },
     {
       "stem": "007_AugmentedHillbilly_EnterFight_04",
-      "english": "I can feel them in my head! They want me to test you!",
-      "chinese": "놈들이 내 머릿속에 있는 게 느껴져! 너를 시험하래!",
-      "durationSeconds": 3.89
+      "english": "I can feel them in my head. They want me to test you.",
+      "chinese": "놈들이 내 머릿속에 있는 게 느껴져. 너를 시험하래.",
+      "durationSeconds": 4.01
     },
     {
       "stem": "008_AugmentedHillbilly_Defeat_01",
-      "english": "Treasures within, they might change you.",
+      "english": "The treasures within, they might change you.",
       "chinese": "안에 있는 보물들이... 너를 바꿔놓을지도 몰라.",
       "durationSeconds": 3.83
     },
@@ -5870,79 +5870,79 @@
       "stem": "010_AugmentedHillbilly_PortraitClick_01",
       "english": "When I came to the vessel, I was like the others, but it changed me.",
       "chinese": "내가 그 그릇에 왔을 땐 다른 이들과 똑같았어. 하지만 그게 나를 바꿨지.",
-      "durationSeconds": 5.21
+      "durationSeconds": 5.23
     },
     {
       "stem": "011_AugmentedHillbilly_PortraitClick_02",
-      "english": "I see beyond my people's squabbles with the city folk. I see everything.",
+      "english": "I see beyond where my people squabble with the city folk. I see everything.",
       "chinese": "난 우리 사람들과 도시 사람들 사이의 하찮은 다툼 너머를 봐. 난 모든 걸 본다고.",
-      "durationSeconds": 5.13
+      "durationSeconds": 5.57
     },
     {
       "stem": "012_AugmentedHillbilly_Defeat_05",
-      "english": "What happens to me don't matter, I done delivered the message.",
-      "chinese": "내가 어떻게 되든 상관없어. 전할 말은 다 전했으니까.",
-      "durationSeconds": 3.79
+      "english": "Phew! What happens to me don't matter. I done delivered their message.",
+      "chinese": "휴! 내가 어떻게 되든 상관없어. 그들 말은 다 전했으니까.",
+      "durationSeconds": 5.29
     },
     {
       "stem": "013_AugmentedHillbilly_Victory_04",
       "english": "Within the vessel are wonders beyond comprehension, but you ain't ready for them.",
       "chinese": "그 그릇 안에는 이해를 넘어선 경이로움이 있어. 하지만 넌 아직 준비가 안 됐어.",
-      "durationSeconds": 5.9
+      "durationSeconds": 6.5
     },
     {
       "stem": "014_AugmentedHillbilly_EnterFight_02",
-      "english": "I feel strange. I feel smart. I feel every particle of the 11 dimensional universe.",
+      "english": "I feel strange. I feel smart. I feel every particle of the 11-dimensional universe.",
       "chinese": "이상한 기분이야. 똑똑해진 기분이고. 11차원 우주의 모든 입자가 느껴져.",
-      "durationSeconds": 9.6
+      "durationSeconds": 8.19
     },
     {
       "stem": "015_AugmentedHillbilly_EnterFight_05",
-      "english": "Well, look what we got here. A sapient life form, seeking to know the unknowable.",
+      "english": "Well, lookie what we got here. A sapient lifeform seeking to know the unknowable.",
       "chinese": "이런, 여기 뭐가 있나 했더니. 알 수 없는 것을 알려는 지성 생명체로군.",
-      "durationSeconds": 7.81
+      "durationSeconds": 6.35
     },
     {
       "stem": "016_AugmentedHillbilly_PortraitClick_03",
-      "english": "The universe is too vast, too beautiful, for any of this to even matter.",
+      "english": "The universe is too vast, too beautiful for any of this to matter.",
       "chinese": "우주는 너무 광대하고, 너무 아름다워. 이런 것들이 중요할 리가 없지.",
-      "durationSeconds": 6.69
+      "durationSeconds": 4.32
     },
     {
       "stem": "017_AugmentedHillbilly_HitReact_02",
-      "english": "Giddyup!",
-      "chinese": "이랴!",
-      "durationSeconds": 0.39
+      "english": "[Pain grunt]",
+      "chinese": "으윽!",
+      "durationSeconds": 0.65
     },
     {
       "stem": "018_AugmentedHillbilly_Victory_05",
       "english": "Leave me now! I must contemplate realms beyond the tangible.",
       "chinese": "이제 날 내버려 둬! 물질을 초월한 영역을 사색해야 하니까.",
-      "durationSeconds": 4.48
+      "durationSeconds": 4.15
     },
     {
       "stem": "020_AugmentedHillbilly_PortraitClick_04",
-      "english": "They don't want me to hurt you! Only deliver a message.",
-      "chinese": "그들은 널 해치길 원하지 않아! 그냥 메시지만 전하래.",
-      "durationSeconds": 4.2
+      "english": "They don't want me to hurt you, only to deliver a message.",
+      "chinese": "그들은 널 해치길 원하지 않아. 그냥 메시지만 전하래.",
+      "durationSeconds": 4.33
     },
     {
       "stem": "021_AugmentedHillbilly_Victory_02",
-      "english": "I ain't sure why I did that to you. Must have been a fluctuation of the probability field.",
-      "chinese": "왜 너한테 그런 짓을 했는진 나도 모르겠네. 확률장이 출렁였나 보지.",
-      "durationSeconds": 6.4
+      "english": "Hmph, I ain't sure why I did that to you. Must have been a fluctuation of the probability field.",
+      "chinese": "흥, 왜 너한테 그런 짓을 했는진 나도 모르겠네. 확률장이 출렁였나 보지.",
+      "durationSeconds": 6.58
     },
     {
       "stem": "022_AugmentedHillbilly_Victory_01",
-      "english": "Well, I sure showed you that all actions are predetermined within 4D spacetime.",
-      "chinese": "자, 이제 모든 행동이 4차원 시공간에서 미리 정해져 있다는 걸 제대로 보여줬군.",
-      "durationSeconds": 5.76
+      "english": "Well, I sure showed you that all actions are predetermined within the 4D cone of time.",
+      "chinese": "자, 모든 행동이 4차원 시간 원뿔 안에서 미리 정해져 있다는 걸 제대로 보여 줬군.",
+      "durationSeconds": 6.02
     },
     {
       "stem": "023_AugmentedHillbilly_PortraitClick_05",
       "english": "Find your purpose and build it, or they gonna whoop you something fierce.",
       "chinese": "네 목적을 찾아서 현실로 만들어. 안 그러면 그들이 아주 호되게 두들겨 팰 거야.",
-      "durationSeconds": 5.24
+      "durationSeconds": 5.76
     },
     {
       "stem": "001_AverageVictory5",
@@ -10303,7 +10303,7 @@
     {
       "stem": "020_DaboraGossipIdle3_FX",
       "english": "Sweetie, none of your business is my business.",
-      "chinese": "자기야, 네 일은 전부 내 일이 아니야.",
+      "chinese": "자기야, 네가 알 바 아닌 일이 바로 내 일이야.",
       "durationSeconds": 4.19
     },
     {
@@ -15324,7 +15324,7 @@
     },
     {
       "stem": "023_HoverbikeVictory2",
-      "english": "Ain't personal, fam. It's rough town!",
+      "english": "Ain't personal, fam. It's Roughtown!",
       "chinese": "개인적인 건 아니야, 형제. 여긴 라프타운이잖아!",
       "durationSeconds": 2.57
     },
@@ -18606,8 +18606,8 @@
     },
     {
       "stem": "009_MandalaMultiClick2",
-      "english": "Sure, the Mari are mostly a wise and noble people, but they're also...me.",
-      "chinese": "그래, 마리족은 대체로 현명하고 고귀하지. 하지만 동시에… 나이기도 해.",
+      "english": "Sure, the Mari are mostly a wise and noble people, but there's also...me.",
+      "chinese": "그래, 마리족은 대체로 현명하고 고귀하지. 하지만... 나도 있지.",
       "durationSeconds": 7.15
     },
     {
@@ -21168,8 +21168,8 @@
     },
     {
       "stem": "014_OutlandsTerrorPortraitClick3_FX",
-      "english": "Man say no, when say yes. Always argue.",
-      "chinese": "인간은 예라고 생각하면서 아니라고 말한다. 항상 다툰다.",
+      "english": "Man say no, man say yes. Always argue.",
+      "chinese": "인간은 아니라고 하고, 인간은 그렇다고 한다. 항상 다툰다.",
       "durationSeconds": 9.0
     },
     {
@@ -22765,7 +22765,7 @@
     {
       "stem": "017_ProsperoMultiClick2",
       "english": "I came up in Roughtown selling junk armor to junk people, but there is always a ladder up.",
-      "chinese": "난 러프타운에서 쓰레기 같은 사람들에게 쓰레기 갑옷을 팔며 시작했죠. 하지만 위로 올라갈 사다리는 언제나 있습니다.",
+      "chinese": "난 라프타운에서 쓰레기 같은 사람들에게 쓰레기 갑옷을 팔며 시작했죠. 하지만 위로 올라갈 사다리는 언제나 있습니다.",
       "durationSeconds": 6.29
     },
     {
@@ -22783,7 +22783,7 @@
     {
       "stem": "020_ProsperoMultiClick3",
       "english": "I made a few good trades, then a few better ones. Now Roughtown is a speck from my Tower District balcony.",
-      "chinese": "좋은 거래 몇 건을 하고, 그보다 더 좋은 거래를 몇 건 더 했습니다. 이제 내 타워 지구 발코니에서 러프타운은 점 하나로 보이죠.",
+      "chinese": "좋은 거래 몇 건을 하고, 그보다 더 좋은 거래를 몇 건 더 했습니다. 이제 내 타워 지구 발코니에서 라프타운은 점 하나로 보이죠.",
       "durationSeconds": 7.43
     },
     {
@@ -24300,8 +24300,8 @@
     },
     {
       "stem": "011_ScoutTrooperVictory2",
-      "english": "Ain't personal, fam. It's Rough Town!",
-      "chinese": "개인적인 건 아니야, 친구. 여긴 러프타운이라고!",
+      "english": "Ain't personal, fam. It's Roughtown!",
+      "chinese": "개인적인 건 아니야, 친구. 여긴 라프타운이라고!",
       "durationSeconds": 2.57
     },
     {
@@ -26724,8 +26724,8 @@
     },
     {
       "stem": "016_TerrorformVictory4",
-      "english": "That's what I call a Rough Town beatdown!",
-      "chinese": "이게 바로 러프 타운식 두들겨 패기지!",
+      "english": "That's what I call a Roughtown beatdown!",
+      "chinese": "이게 바로 라프타운식 두들겨 패기지!",
       "durationSeconds": 4.69
     },
     {
@@ -27138,8 +27138,8 @@
     },
     {
       "stem": "009_TokTikIde1_FX",
-      "english": "You're making me weak. Me!",
-      "chinese": "네가 날 약하게 만들고 있어. 나를!",
+      "english": "You're making me wait. Me!",
+      "chinese": "네가 날 기다리게 하고 있어. 나를!",
       "durationSeconds": 2.69
     },
     {
@@ -32049,6 +32049,588 @@
       "english": "We want to build something better than the Youth House. A place for the kids that does more than keep them alive.",
       "chinese": "우린 유스 하우스보다 더 나은 곳을 만들고 싶어.",
       "durationSeconds": 6.0
+    },
+    {
+      "stem": "018_AugmentedHillbilly_HitReact_03",
+      "english": "Oh, that's gonna sting.",
+      "chinese": "아이고, 이거 좀 쓰리겠구먼.",
+      "durationSeconds": 1.2
+    },
+    {
+      "stem": "001_LaurelReroll3",
+      "english": "You don't like this stuff? But it's yours.",
+      "chinese": "이거 마음에 안 들어? 근데 이거 다 엄마 거잖아.",
+      "durationSeconds": 4.38
+    },
+    {
+      "stem": "002_LaurelMultiClick3",
+      "english": "I know you had to fight on Azaka to protect me and Nonna. But things can be different here, right?",
+      "chinese": "엄마가 아자카에서 나랑 논나를 지키려고 싸워야 했던 거 알아. 그래도 여기선 달라질 수 있잖아, 그치?",
+      "durationSeconds": 7.25
+    },
+    {
+      "stem": "003_LaurelIdle1",
+      "english": "Uh... Mom? Are we still playing?",
+      "chinese": "어... 엄마? 우리 아직 노는 거야?",
+      "durationSeconds": 3.22
+    },
+    {
+      "stem": "004_LaurelEnter4",
+      "english": "Yes, Mom. I did all my chores. Can I have some fun now?",
+      "chinese": "응, 엄마. 집안일 다 했어. 이제 놀아도 돼?",
+      "durationSeconds": 4.49
+    },
+    {
+      "stem": "005_LaurelMultiClick5",
+      "english": "I know you worked really hard, Mom. Thanks.",
+      "chinese": "엄마가 정말 열심히 일한 거 알아. 고마워.",
+      "durationSeconds": 3.52
+    },
+    {
+      "stem": "006_LaurelEnter3",
+      "english": "It's a restaurant store. We sell food and, um, kitchen stuff.",
+      "chinese": "여긴 식당 가게야. 음식이랑, 음, 부엌 물건 팔아.",
+      "durationSeconds": 5.79
+    },
+    {
+      "stem": "007_LaurelReroll2",
+      "english": "Mom, that's not how you play this game.",
+      "chinese": "엄마, 이 놀이는 그렇게 하는 거 아니야.",
+      "durationSeconds": 2.97
+    },
+    {
+      "stem": "008_LaurelEnter7",
+      "english": "I'm so busy with work. It's so hard being a restaurant lady.",
+      "chinese": "일이 너무 바빠. 식당 아줌마 하기 진짜 힘들다.",
+      "durationSeconds": 5.75
+    },
+    {
+      "stem": "009_LaurelEnter2",
+      "english": "Hi, Mom. I mean, welcome to my restaurant store.",
+      "chinese": "안녕, 엄마. 아니, 내 식당 가게에 어서 오세요.",
+      "durationSeconds": 4.33
+    },
+    {
+      "stem": "010_LaurelBuyExit1",
+      "english": "Well, yeah, I guess it's already yours, but you have to play along, Mom.",
+      "chinese": "음, 그래, 원래 다 엄마 거긴 한데, 그래도 놀이는 맞춰 줘야지, 엄마.",
+      "durationSeconds": 4.93
+    },
+    {
+      "stem": "011_LaurelBuyExit3",
+      "english": "What do you call that thing again? A flipper-flapper?",
+      "chinese": "이거 뭐라고 했더라? 뒤집개... 뒤집뒤집개?",
+      "durationSeconds": 3.35
+    },
+    {
+      "stem": "012_LaurelBuyExit7",
+      "english": "Yay! I'm rich!",
+      "chinese": "야호! 나 부자다!",
+      "durationSeconds": 1.59
+    },
+    {
+      "stem": "013_LaurelMultiClick1",
+      "english": "Mom, I figured out what I want to be when I grow up. A food cooker restaurant lady just like you.",
+      "chinese": "엄마, 나 커서 뭐 될지 정했어. 엄마처럼 요리하는 식당 아줌마!",
+      "durationSeconds": 6.15
+    },
+    {
+      "stem": "014_LaurelReroll1",
+      "english": "You want other stuff? Um, I'll be right back.",
+      "chinese": "다른 거 줄까? 음, 금방 올게.",
+      "durationSeconds": 4.96
+    },
+    {
+      "stem": "015_LaurelMultiClick2",
+      "english": "I don't want to fight people like you do, though. That's kind of crazy.",
+      "chinese": "근데 나는 엄마처럼 사람들이랑 싸우고 싶진 않아. 그건 좀 미친 것 같아.",
+      "durationSeconds": 4.05
+    },
+    {
+      "stem": "016_LaurelFreeExit1",
+      "english": "Aww, you're no fun.",
+      "chinese": "에이, 엄마 재미없어.",
+      "durationSeconds": 1.75
+    },
+    {
+      "stem": "017_LaurelBuyExit2",
+      "english": "I found that in the back of the cafe, you know, where we keep the mops.",
+      "chinese": "그거 카페 뒤에서 찾았어. 있잖아, 대걸레 두는 데.",
+      "durationSeconds": 4.35
+    },
+    {
+      "stem": "018_LaurelIdle3",
+      "english": "Fine. Guess I'll just watch my tablet.",
+      "chinese": "알았어. 그냥 태블릿이나 볼래.",
+      "durationSeconds": 2.35
+    },
+    {
+      "stem": "019_LaurelFreeExit3",
+      "english": "Mom, you promised you'd play with me.",
+      "chinese": "엄마, 나랑 놀아 준다고 약속했잖아.",
+      "durationSeconds": 2.6
+    },
+    {
+      "stem": "020_LaurelBuyExit6",
+      "english": "Thanks, Mom. Now I can go buy some good food.",
+      "chinese": "고마워, 엄마. 이제 맛있는 거 사러 갈 수 있어.",
+      "durationSeconds": 3.32
+    },
+    {
+      "stem": "021_LaurelFreeExit2",
+      "english": "Fine, I'll do my homework.",
+      "chinese": "알았어, 숙제할게.",
+      "durationSeconds": 2.3
+    },
+    {
+      "stem": "022_LaurelIdle2",
+      "english": "Are you thinking about work stuff again? Nonna said you're supposed to relax.",
+      "chinese": "또 일 생각 하는 거야? 논나가 엄마는 좀 쉬어야 한댔어.",
+      "durationSeconds": 4.87
+    },
+    {
+      "stem": "023_LaurelBuyExit4",
+      "english": "Now you're supposed to tip me. It's like money that you pay on top of the other money.",
+      "chinese": "이제 나한테 팁 줘야 돼. 돈 낸 다음에 돈을 또 주는 거야.",
+      "durationSeconds": 6.8
+    },
+    {
+      "stem": "024_LaurelBuyExit5",
+      "english": "You're always telling me how you used to steal stuff in Azaka. I just wanted to try it.",
+      "chinese": "엄마가 맨날 아자카에서 물건 훔치던 얘기 하잖아. 나도 한번 해 보고 싶었어.",
+      "durationSeconds": 4.86
+    },
+    {
+      "stem": "025_LaurelMultiClick4",
+      "english": "The Bazaar is a crazy place, but I feel safe here.",
+      "chinese": "바자르는 정신없는 곳이지만, 여기 있으면 안심이 돼.",
+      "durationSeconds": 3.59
+    },
+    {
+      "stem": "026_LaurelEnter1",
+      "english": "Welcome to Laurel's Pretend Restaurant. What can I get you?",
+      "chinese": "로렐의 소꿉놀이 식당에 어서 오세요. 뭘 드릴까요?",
+      "durationSeconds": 3.29
+    },
+    {
+      "stem": "027_LaurelEnter5",
+      "english": "Laurel's Pretend Restaurant has like a million Maryland stars.",
+      "chinese": "로렐의 소꿉놀이 식당은 미끌랭 별이 백만 개쯤 있어.",
+      "durationSeconds": 3.59
+    },
+    {
+      "stem": "028_LaurelEnter6",
+      "english": "Sorry, Mom. Laurel's Pretend Restaurant is probably gonna put you out of business.",
+      "chinese": "미안, 엄마. 로렐의 소꿉놀이 식당 때문에 엄마 가게 망할지도 몰라.",
+      "durationSeconds": 4.71
+    },
+    {
+      "stem": "001_SodaSwillerDefeat3",
+      "english": "So sleepy. Need high-fructose corn syrup.",
+      "chinese": "너무 졸려... 액상과당이 필요해.",
+      "durationSeconds": 7.82
+    },
+    {
+      "stem": "002_SodaSwillerPortraitClick5",
+      "english": "I don't know what he looks like, but if you ever meet that Pygmalien guy, shove a bottle up his snout.",
+      "chinese": "어떻게 생겼는지는 모르겠지만, 그 피그말리온이란 놈 만나면 콧구멍에 병이나 쑤셔 박아 줘.",
+      "durationSeconds": 11.84
+    },
+    {
+      "stem": "003_SodaSwillerPortraitClick1",
+      "english": "I wasn't always like this, you know. I used to be an average Bazaarian.",
+      "chinese": "나도 원래 이렇진 않았어. 예전엔 평범한 바자르 사람이었다고.",
+      "durationSeconds": 7.37
+    },
+    {
+      "stem": "004_SodaSwillerDefeat4",
+      "english": "How did I get like this? I need help!",
+      "chinese": "내가 어쩌다 이렇게 됐지? 누가 좀 도와줘!",
+      "durationSeconds": 4.26
+    },
+    {
+      "stem": "005_SodaSwillerVictory4",
+      "english": "People say I need help, but what I really need is blue-nana cream soda.",
+      "chinese": "다들 내가 도움이 필요하대. 근데 진짜 필요한 건 블루나나 크림소다야.",
+      "durationSeconds": 7.46
+    },
+    {
+      "stem": "006_SodaSwillerEnterFight4",
+      "english": "That snobby sommelier loves his libations, but that's just rotten grape juice.",
+      "chinese": "그 잘난 척하는 소믈리에는 자기 술을 끔찍이 아끼지만, 그거 그냥 썩은 포도 주스잖아.",
+      "durationSeconds": 7.7
+    },
+    {
+      "stem": "007_SodaSwillerDefeat5",
+      "english": "Whatever they put in that Pig Pop, it'd be illegal if we had laws.",
+      "chinese": "피그 팝에 뭘 넣었는지 몰라도, 여기 법이란 게 있었으면 불법이었을 거야.",
+      "durationSeconds": 6.02
+    },
+    {
+      "stem": "009_SodaSwillerPortraitClick4",
+      "english": "I used to dream about being an architect. Now all I dream about is corn syrup.",
+      "chinese": "예전엔 건축가가 되는 게 꿈이었어. 지금은 꿈에 옥수수 시럽만 나와.",
+      "durationSeconds": 8.73
+    },
+    {
+      "stem": "010_SodaSwillerVictory2",
+      "english": "Looks like you got the sugar crash. Only cure is more soda.",
+      "chinese": "당 떨어졌나 보네. 약은 하나뿐이야. 소다 더 마셔.",
+      "durationSeconds": 6.13
+    },
+    {
+      "stem": "011_SodaSwillerEnterFight5",
+      "english": "Sweet, sweet soda! Pour it down every hole!",
+      "chinese": "달콤하고 달콤한 소다! 구멍이란 구멍엔 다 부어 버려!",
+      "durationSeconds": 6.67
+    },
+    {
+      "stem": "012_SodaSwillerPortraitClick3",
+      "english": "Then I tried Pig Pop, that ultra-discount soda from Pygmalien Industries, and it changed me.",
+      "chinese": "그러다 피그말리온 인더스트리에서 파는 초저가 소다, 피그 팝을 마셨는데, 그게 날 바꿔 놨어.",
+      "durationSeconds": 11.3
+    },
+    {
+      "stem": "013_SodaSwillerEnterFight2",
+      "english": "Soda is the proof that the Builders love us!",
+      "chinese": "소다야말로 빌더들이 우리를 사랑한다는 증거야!",
+      "durationSeconds": 3.74
+    },
+    {
+      "stem": "015_SodaSwillerEnterFight3",
+      "english": "It's so sweet, so syrupy. How can you drink anything else?",
+      "chinese": "이렇게 달고, 이렇게 끈적한데. 다른 걸 어떻게 마셔?",
+      "durationSeconds": 7.3
+    },
+    {
+      "stem": "016_SodaSwillerEnterFight1",
+      "english": "You gotta try this flavor. Now this one. Ooh, and this one.",
+      "chinese": "이 맛 꼭 먹어 봐. 이번엔 이거. 오, 이것도.",
+      "durationSeconds": 5.09
+    },
+    {
+      "stem": "017_SodaSwillerVictory3",
+      "english": "You ever tried bathing in it? The bubbles tickle.",
+      "chinese": "소다로 목욕해 본 적 있어? 거품이 간질간질해.",
+      "durationSeconds": 4.82
+    },
+    {
+      "stem": "018_SodaSwillerPortraitClick2",
+      "english": "I was healthy. I exercised. I even drank water.",
+      "chinese": "난 건강했어. 운동도 했고. 심지어 물도 마셨다고.",
+      "durationSeconds": 6.72
+    },
+    {
+      "stem": "020_SodaSwillerVictory5",
+      "english": "Never tasted real fruit, but I'm sure the soda flavors are close enough.",
+      "chinese": "진짜 과일은 먹어 본 적 없지만, 소다 맛이랑 거의 비슷하겠지 뭐.",
+      "durationSeconds": 5.86
+    },
+    {
+      "stem": "021_SodaSwillerDefeat1",
+      "english": "What? What is that? What? No! You can't make me!",
+      "chinese": "뭐? 그게 뭐야? 뭐? 안 돼! 억지로 시키지 마!",
+      "durationSeconds": 6.14
+    },
+    {
+      "stem": "022_SodaSwillerDefeat2",
+      "english": "You want me to drink... fruit juice?! That's just water that wishes it was soda!",
+      "chinese": "나보고... 과일 주스를 마시라고?! 그건 소다가 되고 싶은 물일 뿐이잖아!",
+      "durationSeconds": 6.3
+    },
+    {
+      "stem": "023_SodaSwillerVictory1",
+      "english": "You look thirsty. Have some more soda!",
+      "chinese": "목말라 보이네. 소다 더 마셔!",
+      "durationSeconds": 5.43
+    },
+    {
+      "stem": "001_BanannibossDefeat4",
+      "english": "If Science Man makes you small, maybe he makes you big again?",
+      "chinese": "과학 인간이 너 작게 만들었으면, 다시 크게도 만든다?",
+      "durationSeconds": 7.18
+    },
+    {
+      "stem": "002_BanannibossPortraitClick1",
+      "english": "Since you're small now, Banannibal tell you a secret.",
+      "chinese": "너 이제 작으니까, 바나니발이 비밀 하나 알려 준다.",
+      "durationSeconds": 4.22
+    },
+    {
+      "stem": "004_BanannibossPortraitClick4",
+      "english": "Banannibal eat Magic Men so Banannibal can be free!",
+      "chinese": "바나니발 마법 인간들 먹는다. 그럼 바나니발 자유다!",
+      "durationSeconds": 6.51
+    },
+    {
+      "stem": "005_BanannibossPortraitClick5_ALT",
+      "english": "Maybe if Banannibal eat lots of Ethergy, become bigger than city, then Banannibal eat whole world!",
+      "chinese": "바나니발 에테르지 많이 먹으면 도시보다 커진다. 그럼 바나니발 세상 전부 먹는다!",
+      "durationSeconds": 20.62
+    },
+    {
+      "stem": "006_BanannibossVictory2",
+      "english": "Banannibal still hungry! Need eat many more tiny person!",
+      "chinese": "바나니발 아직 배고프다! 작은 사람 훨씬 더 먹어야 한다!",
+      "durationSeconds": 6.91
+    },
+    {
+      "stem": "007_BanannibossDefeat3",
+      "english": "Tiny bug sting Banannibal! Banannibal try not to cry!",
+      "chinese": "작은 벌레가 바나니발 쏘았다! 바나니발 안 울려고 참는다!",
+      "durationSeconds": 7.06
+    },
+    {
+      "stem": "008_BanannibossEnterFight2",
+      "english": "Tiny person want use sparky thing? No! Sparky thing mine!",
+      "chinese": "작은 사람 반짝이 쓰고 싶다? 안 된다! 반짝이 바나니발 거다!",
+      "durationSeconds": 7.28
+    },
+    {
+      "stem": "009_BanannibossDefeat2",
+      "english": "Why small person still strong? Not make sense to Banannibal!",
+      "chinese": "작은 사람 왜 아직 세다? 바나니발 이해 안 된다!",
+      "durationSeconds": 6.49
+    },
+    {
+      "stem": "010_BanannibossEnterFight1",
+      "english": "You tiny now! Bite-sized!",
+      "chinese": "너 이제 작다! 한입 크기다!",
+      "durationSeconds": 3.78
+    },
+    {
+      "stem": "011_BanannibossPortraitClick2",
+      "english": "Magic Men create Banannibal to eat Ethergy. Banannibal become weapon.",
+      "chinese": "마법 인간들이 에테르지 먹으라고 바나니발 만들었다. 바나니발 무기 됐다.",
+      "durationSeconds": 10.25
+    },
+    {
+      "stem": "012_BanannibossPortraitClick3",
+      "english": "Banannibal love eat Ethergy! Love eat everything! But... not want be weapon for Magic Man.",
+      "chinese": "바나니발 에테르지 먹는 거 좋다! 전부 먹는 거 좋다! 그런데... 마법 인간 무기 되기 싫다.",
+      "durationSeconds": 11.77
+    },
+    {
+      "stem": "013_BanannibossVictory4",
+      "english": "If Banannibal eats you, you gone? Or more come back? Like Banannibal!",
+      "chinese": "바나니발이 너 먹으면, 너 없어진다? 아니면 더 많이 돌아온다? 바나니발처럼!",
+      "durationSeconds": 8.57
+    },
+    {
+      "stem": "014_BanannibossEnterFight4",
+      "english": "You small, Banannibal eat you and not get full.",
+      "chinese": "너 작다. 바나니발 너 먹어도 배 안 부르다.",
+      "durationSeconds": 6.35
+    },
+    {
+      "stem": "015_BanannibossVictory3",
+      "english": "Ha ha ha! Big Banannibal step on you!",
+      "chinese": "하하하! 큰 바나니발이 너 밟는다!",
+      "durationSeconds": 4.64
+    },
+    {
+      "stem": "016_BanannibossEnterFight3",
+      "english": "Banannibal eat magic from sparky thing! Not let you use!",
+      "chinese": "바나니발이 반짝이 속 마법 먹는다! 너 못 쓰게 한다!",
+      "durationSeconds": 6.54
+    },
+    {
+      "stem": "018_BanannibossDefeat1",
+      "english": "You small, but still beat Banannibal! How?",
+      "chinese": "너 작은데도 바나니발 이겼다! 어떻게?",
+      "durationSeconds": 7.07
+    },
+    {
+      "stem": "019_BanannibossDefeat5",
+      "english": "Banannibal sad to lose. Need soft toy to hug.",
+      "chinese": "바나니발 져서 슬프다. 안을 푹신한 인형 필요하다.",
+      "durationSeconds": 6.33
+    },
+    {
+      "stem": "020_BanannibossVictory5",
+      "english": "Banannibal squash tiny person! Ha ha ha ha ha ha ha!",
+      "chinese": "바나니발이 작은 사람 납작하게 눌렀다! 하하하하하하하!",
+      "durationSeconds": 7.34
+    },
+    {
+      "stem": "021_BanannibossEnterFight5",
+      "english": "Magic Man make you small, or Science Man?",
+      "chinese": "너 작게 만든 거 마법 인간이다, 과학 인간이다?",
+      "durationSeconds": 5.54
+    },
+    {
+      "stem": "023_BanannibossVictory1",
+      "english": "You're too small to eat! Get stuck in teeth!",
+      "chinese": "너 너무 작아서 못 먹는다! 이에 낀다!",
+      "durationSeconds": 4.18
+    },
+    {
+      "stem": "001_SproutEnter7",
+      "english": "Have you met my dad up in Big World? He's a huge tree!",
+      "chinese": "큰 세상에서 우리 아빠 만나 봤어? 엄청 큰 나무야!",
+      "durationSeconds": 5.12
+    },
+    {
+      "stem": "002_SproutEnter6",
+      "english": "You want to... escape the Tiny World? But it's so cute here!",
+      "chinese": "작은 세상을... 탈출하고 싶다고? 여기 이렇게 귀여운데!",
+      "durationSeconds": 5.77
+    },
+    {
+      "stem": "003_SproutBuyExit5",
+      "english": "If you could make big weapons tiny, imagine how many you could use!",
+      "chinese": "큰 무기를 작게 만들 수 있으면, 한 번에 얼마나 많이 쓸 수 있을지 생각해 봐!",
+      "durationSeconds": 5.48
+    },
+    {
+      "stem": "004_SproutEnter5",
+      "english": "My dad lives in the Big World. It'll be a long time before I'm tall enough to talk to him.",
+      "chinese": "우리 아빠는 큰 세상에 살아. 내가 아빠랑 얘기할 만큼 크려면 한참 걸릴 거야.",
+      "durationSeconds": 6.3
+    },
+    {
+      "stem": "005_SproutMultiClick4",
+      "english": "There's an Ethergy Nexus on the far side of the Great Plain of Carpet. But... there's a giant monster that guards it!",
+      "chinese": "카펫 대평원 저 끝에 에테르지 넥서스가 있어. 근데... 거대한 괴물이 지키고 있어!",
+      "durationSeconds": 9.92
+    },
+    {
+      "stem": "006_SproutMultiClick3",
+      "english": "If that shrinky machine brought you down here, it can probably send you back. But you'll have to recharge it.",
+      "chinese": "그 쪼그리 기계가 널 여기로 데려왔으면, 아마 다시 돌려보낼 수도 있을 거야. 근데 충전부터 해야 돼.",
+      "durationSeconds": 7.9
+    },
+    {
+      "stem": "007_SproutBuyExit1",
+      "english": "If you want to recharge the shrinky thing, you'll have to get past the giant.",
+      "chinese": "그 쪼그리 기계를 충전하려면 거인을 지나가야 돼.",
+      "durationSeconds": 5.87
+    },
+    {
+      "stem": "008_SproutIdle3",
+      "english": "I bet there's an even tinier world somewhere below us. Maybe you should keep shrinking.",
+      "chinese": "우리 밑 어딘가에 훨씬 더 작은 세상이 있을 거야. 너 계속 작아져 보는 건 어때?",
+      "durationSeconds": 6.91
+    },
+    {
+      "stem": "009_SproutEnter1",
+      "english": "You're from the Big World. How'd you get down here?",
+      "chinese": "너 큰 세상에서 왔구나. 여기까지 어떻게 내려왔어?",
+      "durationSeconds": 4.0
+    },
+    {
+      "stem": "010_SproutEnter3",
+      "english": "If you take this stuff back to Big World with you, I bet it'd be super strong.",
+      "chinese": "이거 큰 세상에 가져가면, 분명 엄청 셀 거야.",
+      "durationSeconds": 4.98
+    },
+    {
+      "stem": "011_SproutBuyExit2",
+      "english": "Big World's trash is Tiny World's treasure!",
+      "chinese": "큰 세상의 쓰레기는 작은 세상의 보물!",
+      "durationSeconds": 3.98
+    },
+    {
+      "stem": "012_SproutReroll2",
+      "english": "If you don't like this stuff, we can wait for something else to drop down from Big World!",
+      "chinese": "이거 마음에 안 들면, 큰 세상에서 다른 게 떨어질 때까지 기다리면 돼!",
+      "durationSeconds": 4.86
+    },
+    {
+      "stem": "013_SproutBuyExit7",
+      "english": "Maybe you'll sell that to my dad someday. He's a merchant too.",
+      "chinese": "언젠가 그거 우리 아빠한테 팔게 될지도 몰라. 아빠도 상인이거든.",
+      "durationSeconds": 4.73
+    },
+    {
+      "stem": "014_SproutReroll3",
+      "english": "Hmm... Let's see what else we can find.",
+      "chinese": "흠... 또 뭐가 있나 보자.",
+      "durationSeconds": 3.25
+    },
+    {
+      "stem": "015_SproutMultiClick2",
+      "english": "Lots of people are mean in the Big World. Are you sure you want to go back there?",
+      "chinese": "큰 세상엔 못된 사람이 많잖아. 정말 거기로 돌아가고 싶어?",
+      "durationSeconds": 6.16
+    },
+    {
+      "stem": "016_SproutBuyExit3",
+      "english": "Can you believe the big people just throw this stuff away?",
+      "chinese": "큰 사람들이 이런 걸 그냥 버린다는 게 믿겨져?",
+      "durationSeconds": 3.92
+    },
+    {
+      "stem": "017_SproutIdle1",
+      "english": "My dad says it's noisy in Big World, but it's so peaceful down here.",
+      "chinese": "아빠가 그러는데 큰 세상은 시끄럽대. 여기 아래는 이렇게 평화로운데.",
+      "durationSeconds": 5.93
+    },
+    {
+      "stem": "018_SproutFreeExit3",
+      "english": "If you're going to fight the giant, I hope you've got other weapons!",
+      "chinese": "거인이랑 싸울 거면, 다른 무기도 있으면 좋겠다!",
+      "durationSeconds": 4.85
+    },
+    {
+      "stem": "019_SproutFreeExit2",
+      "english": "Is it too tiny for you? This is Tiny World!",
+      "chinese": "너한테 너무 작아? 여긴 작은 세상이라고!",
+      "durationSeconds": 4.84
+    },
+    {
+      "stem": "020_SproutMultiClick1",
+      "english": "My dad works for the Grand Society of Nasty Merchants, or something. You're kind of mean to him, though.",
+      "chinese": "우리 아빠는 고약한 상인 대협회인가 거기서 일해. 근데 너 아빠한테 좀 못되게 굴더라.",
+      "durationSeconds": 8.62
+    },
+    {
+      "stem": "021_SproutEnter2",
+      "english": "Tiny weapons are strong, and the bad guy's tiny too.",
+      "chinese": "작은 무기도 세. 게다가 나쁜 놈도 작잖아.",
+      "durationSeconds": 3.5
+    },
+    {
+      "stem": "022_SproutBuyExit4",
+      "english": "If that machine makes you big again, it can make this big too!",
+      "chinese": "그 기계가 너를 다시 크게 만들 수 있으면, 이것도 크게 만들 수 있어!",
+      "durationSeconds": 5.31
+    },
+    {
+      "stem": "023_SproutFreeExit1",
+      "english": "You used to be a big person, right? So, you probably want bigger stuff.",
+      "chinese": "너 원래 큰 사람이었지? 그럼 더 큰 물건을 갖고 싶겠다.",
+      "durationSeconds": 6.14
+    },
+    {
+      "stem": "024_SproutMultiClick5",
+      "english": "He's a huge, terrible creature that eats everything it sees. You should just stay down here where it's safe. And then we can be friends.",
+      "chinese": "그건 보이는 건 다 먹어 치우는 거대하고 무시무시한 괴물이야. 그냥 안전한 여기 아래에 있어. 그럼 우리 친구 할 수 있잖아.",
+      "durationSeconds": 11.75
+    },
+    {
+      "stem": "025_SproutReroll1",
+      "english": "Sure! I've got lots of other stuff!",
+      "chinese": "좋아! 다른 거 엄청 많아!",
+      "durationSeconds": 2.86
+    },
+    {
+      "stem": "026_SproutBuyExit6",
+      "english": "After you get big again, I hope you'll still come back here sometimes.",
+      "chinese": "다시 커진 다음에도, 가끔 여기 놀러 와 줬으면 좋겠어.",
+      "durationSeconds": 4.82
+    },
+    {
+      "stem": "027_SproutEnter4",
+      "english": "You could recharge that shrinky thing at the Ethergy Nexus! But it's guarded by a giant monster!",
+      "chinese": "에테르지 넥서스에서 그 쪼그리 기계를 충전할 수 있어! 근데 거기 거대한 괴물이 지키고 있어!",
+      "durationSeconds": 7.9
+    },
+    {
+      "stem": "028_SproutIdle2",
+      "english": "Nobody's in a hurry here. I could spend the whole day just staring at a grain of sand.",
+      "chinese": "여기선 아무도 서두르지 않아. 모래 한 알만 쳐다보면서 하루를 다 보낼 수도 있어.",
+      "durationSeconds": 6.75
     }
   ]
 }

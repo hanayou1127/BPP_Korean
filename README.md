@@ -1,21 +1,24 @@
 # The Bazaar — BazaarPlusPlus 한글판
 
-[BazaarPlusPlus](https://bazaarplusplus.com) 공식 v5.7.0 빌드에 한글 패치를 적용한 배포본입니다.
+[BazaarPlusPlus](https://bazaarplusplus.com) 공식 v6.2.0 빌드에 한글 패치를 적용한 배포본입니다.
 
 ## 한글판 추가 기능
 
 - 음성 자막 및 UI 한글화
 - 자막 X/Y 오프셋, 울트라와이드 지원
-- 유형 정렬 · 유형 강조 기능
+- 자막·게임 한글 글꼴 고르기, F6 글꼴 꾸미기 창
+- 유형 정렬 · 유형 강조 기능 (F7 유형 도구)
 - 아이템 잠금 기능
 - 사운드 증폭 기능
 
 ## 설치
 
 1. 게임을 종료합니다.
-2. [최신 릴리스](../../releases/latest)에서 zip을 받습니다.
-3. 게임 루트 폴더에 그대로 덮어씁니다. 예) `C:\Steam\steamapps\common\The Bazaar\`
-4. 게임을 실행합니다.
+2. 5.x 한글판을 쓰던 분은 먼저 [bazaarplusplus.com](https://bazaarplusplus.com)의 **공식 BazaarPlusPlus 6.2.0 설치 프로그램**을 실행합니다.
+   (5.x 게임 기록을 6.x 폴더로 옮기는 단계입니다. 옮길 기록이 없으면 건너뛰어도 됩니다.)
+3. [최신 릴리스](../../releases/latest)에서 zip을 받습니다.
+4. 게임 루트 폴더에 그대로 덮어씁니다. 예) `C:\Steam\steamapps\common\The Bazaar\`
+5. 게임을 실행합니다. 메인 화면 버전 줄이 `BPP 6.2.0-ko.1`이면 완료입니다.
 
 자세한 설명(자막 켜기, 설정 순서, 단축키, 자동 업데이트 동작 방식)은 zip 안의 `README-KO.md`에 있습니다.
 
