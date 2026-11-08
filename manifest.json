@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "6.2.0-ko.1",
-  "bppVersion": "6.2.0.prod",
-  "notes": "BazaarPlusPlus 6.2.0 기반. 이 버전은 직접 설치해야 합니다(공식 6.2.0 설치 프로그램 → 한글판 zip 덮어쓰기).",
+  "version": "6.2.5-ko.1",
+  "bppVersion": "6.2.5.prod",
+  "notes": "BazaarPlusPlus 6.2.5 기반, 6.2.5 새 문구 번역, 설정 순번 정리",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.2.0-ko.1/BazaarPlusPlusKorean_v6.2.0-ko.1.zip",
-  "packageSha256": "9930f8c032182c337cde7b4a6ef093153cd86c21e8f1776b65aebfa006fd110c",
-  "packageSize": 16180054,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.2.5-ko.1/BazaarPlusPlusKorean_v6.2.5-ko.1.zip",
+  "packageSha256": "91332cb7f1b0384dd2776bf2f8f5cd379901232ec5f6b28485cf7fd328baf069",
+  "packageSize": 16607141,
   "files": [
     {
       "path": "BazaarPlusPlusV6/fonts/DNFForgedBlade-Medium.otf",
@@ -165,8 +165,8 @@
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.Core.dll",
-      "sha256": "6ea9bf6f2e4e3896218791234c0b67ab57db29d18bf21f317db3741e35b41e4b",
-      "size": 1564672
+      "sha256": "28ef08d0361df8b067df05a31a7e61cfa202da0e07de73c5bf91ab18595bc369",
+      "size": 1581056
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.KoreanSlider.dll",
@@ -175,18 +175,18 @@
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.ModApi.dll",
-      "sha256": "a0c8ea38318516013bf947ada09912ed63c244dba61992bb1256e1d37c22f75d",
+      "sha256": "8e450ebcc7257d2c197dbd08fefb95d63cc60e1c55cffb06ec66613fc317ac10",
       "size": 104960
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.Storage.dll",
-      "sha256": "42bfe84cf5694e8b83aaa2907ff8c295bd75f0a31e2219d735665529a3706b6a",
+      "sha256": "1094bd9071e5a31ae1b6ce4e20e9ae1e6d8e0401597b6abc21c741d19665ca7f",
       "size": 196096
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.dll",
-      "sha256": "785b9bd9d11fd8df1cb47bf25a7a56bd2fdb52eb064e084e1f1b72edb90e6165",
-      "size": 5648384
+      "sha256": "1dc42e447f39e1aae51bd35be587d47af9cd49ed75c0059440e4b2d010311e9f",
+      "size": 6155776
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.history-database.json",
@@ -195,12 +195,12 @@
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.managed-manifest.txt",
-      "sha256": "9333dd9d948d6bba9d766ffe52dab5fa88a9ad6f7508dc3247b332a468ea2f7e",
+      "sha256": "f63c00dfb8fe4232d4dbaf9d3174b0912088b9a59f011d91e7ae952624c0f2d9",
       "size": 1863
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.version",
-      "sha256": "a4f6e31ecc81beb0a4a478f4e36bc286f2ff791bfcefd9d1caa295d429ceee11",
+      "sha256": "1a080961842cd450f2191e48aca9dc7b698e326fa240c113cbae0abf0fb85a18",
       "size": 12
     },
     {
@@ -300,8 +300,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "453b53ed7e83ff146b98df4c93467ad5fc0a0d2b1afea30b5f8d594e349afb52",
-      "size": 25376
+      "sha256": "ad58230139a0795b0a60b1bcb730bf87330253aa79a03fd4160877f09bd54524",
+      "size": 25286
     }
   ]
 }
