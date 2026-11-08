@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "6.2.5-ko.2",
+  "version": "6.2.5-ko.3",
   "bppVersion": "6.2.5.prod",
-  "notes": "F8 기록 패널이 열리지 않던 문제 수정",
+  "notes": "영어·숫자도 고른 게임 글꼴로 바꾸는 설정 추가, F6·F7 창 21:9 안에 표시",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.2.5-ko.2/BazaarPlusPlusKorean_v6.2.5-ko.2.zip",
-  "packageSha256": "ef511eea5d853dc345d6759bceca8d58dcf604e136391a48aac4e1dffccc1036",
-  "packageSize": 16607031,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.2.5-ko.3/BazaarPlusPlusKorean_v6.2.5-ko.3.zip",
+  "packageSha256": "a86d4c5718374a0b1c892042dca959df3f485b70e967d29fb48928b331e136bc",
+  "packageSize": 16608532,
   "files": [
     {
       "path": "BazaarPlusPlusV6/fonts/DNFForgedBlade-Medium.otf",
@@ -155,8 +155,8 @@
     },
     {
       "path": "BepInEx/plugins/BazaarKoFontStyle.dll",
-      "sha256": "2bda362c977fd5b3728aae8aacb2159af1d91601f809b492dfe1f2b6fffd6dc8",
-      "size": 36352
+      "sha256": "c7257c5b8b8f3aae02f6e1a512dccb20234b91a16dc970353ae3f93815ccc0bf",
+      "size": 36864
     },
     {
       "path": "BepInEx/plugins/BazaarKoUpdate.dll",
@@ -185,8 +185,8 @@
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.dll",
-      "sha256": "f644956a88eea3d6f13a660535e8d4348288b6e7cf169212cf176c19419e1e77",
-      "size": 6155264
+      "sha256": "6f3e8cc0e192dc60c02760b27ab630210e557196e31e6e62aa202b184b9c3cbe",
+      "size": 6158336
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.history-database.json",
@@ -195,7 +195,7 @@
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.managed-manifest.txt",
-      "sha256": "4cf385db48866e0b017cfc4d19befd2aceef536c4ce8ef8881f4707959268531",
+      "sha256": "2aeda53801617a17b81e09d93b9b7e48458344de8a4193b3a85cacc18354c42d",
       "size": 1863
     },
     {
@@ -205,7 +205,7 @@
     },
     {
       "path": "BepInEx/plugins/BazaarTagTools.dll",
-      "sha256": "9c26d1b84b778ce5fe92b5a9593f3d40d44a778622f3e411142a4bce1308e45b",
+      "sha256": "53c053b0a7e2557d4d0e52d1021c4388ada53186471baa19f814292a07e24b65",
       "size": 80384
     },
     {
@@ -300,8 +300,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "a24d37b3aac346fbb2544de87a5a0b5812b89c61cf1c0f22b2284508ba340b42",
-      "size": 25303
+      "sha256": "5ceddc13337ebeb682e43eb6555c51d16274a413da908edc2c3438e5b0ac7580",
+      "size": 25754
     }
   ]
 }
