@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "6.2.5-ko.1",
+  "version": "6.2.5-ko.2",
   "bppVersion": "6.2.5.prod",
-  "notes": "BazaarPlusPlus 6.2.5 기반, 6.2.5 새 문구 번역, 설정 순번 정리",
+  "notes": "F8 기록 패널이 열리지 않던 문제 수정",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.2.5-ko.1/BazaarPlusPlusKorean_v6.2.5-ko.1.zip",
-  "packageSha256": "91332cb7f1b0384dd2776bf2f8f5cd379901232ec5f6b28485cf7fd328baf069",
-  "packageSize": 16607141,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.2.5-ko.2/BazaarPlusPlusKorean_v6.2.5-ko.2.zip",
+  "packageSha256": "ef511eea5d853dc345d6759bceca8d58dcf604e136391a48aac4e1dffccc1036",
+  "packageSize": 16607031,
   "files": [
     {
       "path": "BazaarPlusPlusV6/fonts/DNFForgedBlade-Medium.otf",
@@ -185,8 +185,8 @@
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.dll",
-      "sha256": "1dc42e447f39e1aae51bd35be587d47af9cd49ed75c0059440e4b2d010311e9f",
-      "size": 6155776
+      "sha256": "f644956a88eea3d6f13a660535e8d4348288b6e7cf169212cf176c19419e1e77",
+      "size": 6155264
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.history-database.json",
@@ -195,7 +195,7 @@
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.managed-manifest.txt",
-      "sha256": "f63c00dfb8fe4232d4dbaf9d3174b0912088b9a59f011d91e7ae952624c0f2d9",
+      "sha256": "4cf385db48866e0b017cfc4d19befd2aceef536c4ce8ef8881f4707959268531",
       "size": 1863
     },
     {
@@ -300,8 +300,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "ad58230139a0795b0a60b1bcb730bf87330253aa79a03fd4160877f09bd54524",
-      "size": 25286
+      "sha256": "a24d37b3aac346fbb2544de87a5a0b5812b89c61cf1c0f22b2284508ba340b42",
+      "size": 25303
     }
   ]
 }
