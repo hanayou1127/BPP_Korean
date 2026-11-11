@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "6.2.5-ko.4.1",
+  "version": "6.2.5-ko.4.2",
   "bppVersion": "6.2.5.prod",
-  "notes": "게임 글꼴 줄 간격 자동 맞춤·조절, 아이템 부제목에 게임 글꼴",
+  "notes": "게임 글꼴: 아이콘·숫자와 한글 높이 맞춤, 줄 높이를 게임 기본 글꼴과 같게",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.2.5-ko.4.1/BazaarPlusPlusKorean_v6.2.5-ko.4.1.zip",
-  "packageSha256": "8168cd0da6aae3bedd18978964d23331317d0af31e39e19e496f4c15b566ecbe",
-  "packageSize": 16638746,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.2.5-ko.4.2/BazaarPlusPlusKorean_v6.2.5-ko.4.2.zip",
+  "packageSha256": "6fbe3bc5b515f4812e489e5635a3a9898a13490e38e4ed375d00300fb1e0ff52",
+  "packageSize": 16639494,
   "files": [
     {
       "path": "BazaarPlusPlusV6/fonts/DNFForgedBlade-Medium.otf",
@@ -190,8 +190,8 @@
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.dll",
-      "sha256": "af3036b2efdb8c8d1a177064c1e49d9a80e1d3a79b2997d97ab285ae2213eeb5",
-      "size": 6171648
+      "sha256": "5fafa10e871a190acb05665362f4fa4d2ea29b3526624c65abed3d09d6e41a32",
+      "size": 6173184
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.history-database.json",
@@ -200,7 +200,7 @@
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.managed-manifest.txt",
-      "sha256": "d5c863fb5b63b116a3ad25fb71a7a22fee61b1b3d4ea34dd9dddbb773b382ea3",
+      "sha256": "d61c8e3192f8a62123a2b7b1ea568bba99ba3db42cefc98c3eb4a173abba3a81",
       "size": 1863
     },
     {
@@ -305,8 +305,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "a2d731d0dac875b414760021ebd45f371322123e32ddc85ad45f4024b18d3c6f",
-      "size": 27664
+      "sha256": "9147ec65c5d4e58fa05c8b1edb676e821a47f5dd8c2a0a3257060d75f2317a20",
+      "size": 27701
     }
   ]
 }
