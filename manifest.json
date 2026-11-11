@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "6.2.5-ko.4",
+  "version": "6.2.5-ko.4.1",
   "bppVersion": "6.2.5.prod",
-  "notes": "공식 번역 빈 곳 522개·중독 아이콘 고침, 도감 검색창 입력 고침, F6에서 설치된 글꼴 고르기",
+  "notes": "게임 글꼴 줄 간격 자동 맞춤·조절, 아이템 부제목에 게임 글꼴",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.2.5-ko.4/BazaarPlusPlusKorean_v6.2.5-ko.4.zip",
-  "packageSha256": "9bc0e66c34a16abc8b2a1a3b44a068a49a7f907a419c9a842e511106c3725eb6",
-  "packageSize": 16637341,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.2.5-ko.4.1/BazaarPlusPlusKorean_v6.2.5-ko.4.1.zip",
+  "packageSha256": "8168cd0da6aae3bedd18978964d23331317d0af31e39e19e496f4c15b566ecbe",
+  "packageSize": 16638746,
   "files": [
     {
       "path": "BazaarPlusPlusV6/fonts/DNFForgedBlade-Medium.otf",
@@ -155,7 +155,7 @@
     },
     {
       "path": "BepInEx/plugins/BazaarKoFontStyle.dll",
-      "sha256": "03f102f51e1d72f477eb7139abdac5bdc7307f7fbe6f072cf4a5bda9534a04bb",
+      "sha256": "41e387d52c5dd9fe256a5c1c69c4bdc9c43c1631b5327ff09e1b454c3c3d8a41",
       "size": 41984
     },
     {
@@ -190,8 +190,8 @@
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.dll",
-      "sha256": "496d1d10a6803e7822f87571363c6dad3a86af2ebfa60d8c74ebb79e9d5655aa",
-      "size": 6165504
+      "sha256": "af3036b2efdb8c8d1a177064c1e49d9a80e1d3a79b2997d97ab285ae2213eeb5",
+      "size": 6171648
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.history-database.json",
@@ -200,7 +200,7 @@
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.managed-manifest.txt",
-      "sha256": "6294a1e8acbfc909e89d0c9802441c2dd526ea2b7c8c7c3ea2dd0067b88e6090",
+      "sha256": "d5c863fb5b63b116a3ad25fb71a7a22fee61b1b3d4ea34dd9dddbb773b382ea3",
       "size": 1863
     },
     {
@@ -305,8 +305,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "f989da7fe4dfea7a5b3e648dbd37cc51751591fad95ba0a7a0dd3a1da8944439",
-      "size": 27566
+      "sha256": "a2d731d0dac875b414760021ebd45f371322123e32ddc85ad45f4024b18d3c6f",
+      "size": 27664
     }
   ]
 }
