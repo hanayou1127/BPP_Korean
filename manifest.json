@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "6.4.0-ko.1",
+  "version": "6.4.0-ko.2",
   "bppVersion": "6.4.0.prod",
-  "notes": "BazaarPlusPlus 6.4.0 기반: 새 게임 기록 창 한글화, 후원자 줄 숨김",
+  "notes": "유형 도구(F7)에 유형별 색 추가: 아이템 툴팁의 유형 글자를 유형마다 정한 색으로",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.4.0-ko.1/BazaarPlusPlusKorean_v6.4.0-ko.1.zip",
-  "packageSha256": "562a1340089f23b621340e5ebf46c36c8ce7fb0a50dd100e1b4e9471f7da0989",
-  "packageSize": 16469114,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.4.0-ko.2/BazaarPlusPlusKorean_v6.4.0-ko.2.zip",
+  "packageSha256": "8ad614b452124bed1be78b3b535687b39bf4011e7963b4c8b127e348385b4468",
+  "packageSize": 16472142,
   "files": [
     {
       "path": "BazaarPlusPlusV6/fonts/DNFForgedBlade-Medium.otf",
@@ -210,8 +210,8 @@
     },
     {
       "path": "BepInEx/plugins/BazaarTagTools.dll",
-      "sha256": "668e76cf19637e36980b72da10df5ddf469a0907dcdcc0ebde955881814eba62",
-      "size": 81920
+      "sha256": "bf358d823e507badc24ad34872e85680350d61526ef4d326ff9d35f01a191880",
+      "size": 89088
     },
     {
       "path": "BepInEx/plugins/BazaarVolumeBoost.dll",
@@ -305,8 +305,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "af9a22a787144bebf1cd0145826314a3194dfa8f8c1e4bda180db1036c645c35",
-      "size": 27867
+      "sha256": "f08c73570b6cbb3b6ca35190e3067076db1dd9d6c614f4293b7e03ff52f31628",
+      "size": 28953
     }
   ]
 }
