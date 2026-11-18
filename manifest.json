@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "6.4.0-ko.2",
+  "version": "6.4.0-ko.2.1",
   "bppVersion": "6.4.0.prod",
-  "notes": "유형 도구(F7)에 유형별 색 추가: 아이템 툴팁의 유형 글자를 유형마다 정한 색으로",
+  "notes": "같이 쓰는 아이템 보기(` 키) 추가, 한글판 단축키와 홀드/토글을 게임 설정에서 바꾸기",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.4.0-ko.2/BazaarPlusPlusKorean_v6.4.0-ko.2.zip",
-  "packageSha256": "8ad614b452124bed1be78b3b535687b39bf4011e7963b4c8b127e348385b4468",
-  "packageSize": 16472142,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.4.0-ko.2.1/BazaarPlusPlusKorean_v6.4.0-ko.2.1.zip",
+  "packageSha256": "a6f7ba069a48be8f714150f965e1848bfd5827f62f6fc6283b59b38535f1fded",
+  "packageSize": 16523522,
   "files": [
     {
       "path": "BazaarPlusPlusV6/fonts/DNFForgedBlade-Medium.otf",
@@ -154,6 +154,11 @@
       "size": 27136
     },
     {
+      "path": "BepInEx/plugins/BazaarItemPairs.dll",
+      "sha256": "aa912dde1e2a05ad3fadc11cbbde258e3636345cb599d1c2d75594a77419fe6b",
+      "size": 76800
+    },
+    {
       "path": "BepInEx/plugins/BazaarKoFontStyle.dll",
       "sha256": "41e387d52c5dd9fe256a5c1c69c4bdc9c43c1631b5327ff09e1b454c3c3d8a41",
       "size": 41984
@@ -162,6 +167,11 @@
       "path": "BepInEx/plugins/BazaarKoGameText.dll",
       "sha256": "d17e648042354969778c8b4d98f4dbff134f5ef00a387ab59923cbe58939143b",
       "size": 51712
+    },
+    {
+      "path": "BepInEx/plugins/BazaarKoKeybinds.dll",
+      "sha256": "96d4cac6044cf9371a1119576e7c1f91688670841a895d8699b29e785a4e6024",
+      "size": 28672
     },
     {
       "path": "BepInEx/plugins/BazaarKoUpdate.dll",
@@ -305,8 +315,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "f08c73570b6cbb3b6ca35190e3067076db1dd9d6c614f4293b7e03ff52f31628",
-      "size": 28953
+      "sha256": "c41e72c35e23e83ecc156ea32668c00c5f4e8c1b671b50d395faabd751151067",
+      "size": 33052
     }
   ]
 }
