@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "6.4.3-ko.2",
+  "version": "6.4.3-ko.3",
   "bppVersion": "6.4.3.prod",
-  "notes": "상점 추천 ★ 배지를 처음에는 꺼진 상태로(바플플 옵션 탭에서 켜기)",
+  "notes": "상점 추천을 최종 빌드에 들 확률(★~★★★)로 다시 만듦, 이유 줄 표시",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.4.3-ko.2/BazaarPlusPlusKorean_v6.4.3-ko.2.zip",
-  "packageSha256": "814204a348ef85c9d2a72e3291b1161e7a625396f0c903fdf345240f3ab7d06c",
-  "packageSize": 16566943,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.4.3-ko.3/BazaarPlusPlusKorean_v6.4.3-ko.3.zip",
+  "packageSha256": "1de67e35476eed859e527012bcee09d221e06c0de2e0b83316d0991ef2ca67c9",
+  "packageSize": 16571682,
   "files": [
     {
       "path": "BazaarPlusPlusV6/fonts/DNFForgedBlade-Medium.otf",
@@ -155,8 +155,8 @@
     },
     {
       "path": "BepInEx/plugins/BazaarItemPairs.dll",
-      "sha256": "d01f06a0842bfea1f127b2b4bef1692f00cfb18c08e647ceb57eba6f092986d5",
-      "size": 97280
+      "sha256": "c8a6a32dc09b87fa272f5e705daf46c889da75a3c56808210fda527d4aba594b",
+      "size": 105984
     },
     {
       "path": "BepInEx/plugins/BazaarKoFontStyle.dll",
@@ -315,8 +315,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "752d25ebe8711577aa0034b00820ac25795224d5c719e004fcaddeacee6856a1",
-      "size": 36091
+      "sha256": "a1f91af541f3768e17cccb60427c31811234c0768f3eacf1481aa6801d101024",
+      "size": 37044
     }
   ]
 }
