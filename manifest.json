@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "6.4.3-ko.5",
+  "version": "6.4.3-ko.5.1",
   "bppVersion": "6.4.3.prod",
-  "notes": "말풍선 자막 추가(음성 자막을 말한 사람 초상화 옆 말풍선으로), 소포 얼굴 테두리를 상인 등급 색으로·새 상인 얼굴 위치·화질 개선, ! 이유 판 글자 세로 가운데",
+  "notes": "F7 유형 도구 창을 휠로 내릴 때 위아래 칸이 겹쳐 보이던 문제 수정",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.4.3-ko.5/BazaarPlusPlusKorean_v6.4.3-ko.5.zip",
-  "packageSha256": "ee96711f8486133b5aebcba58ffef7208b2fe997c4e87134f9be5224ee3fbf1a",
-  "packageSize": 16685981,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.4.3-ko.5.1/BazaarPlusPlusKorean_v6.4.3-ko.5.1.zip",
+  "packageSha256": "a058b761661674de6e428380518576d28117b144207a1d6c01f2d1fbfb4841f9",
+  "packageSize": 16686001,
   "files": [
     {
       "path": "BazaarPlusPlusV6/fonts/DNFForgedBlade-Medium.otf",
@@ -230,8 +230,8 @@
     },
     {
       "path": "BepInEx/plugins/BazaarTagTools.dll",
-      "sha256": "7c52b7336f0f73b6c27810e28b273588fc5eed972fc0d926f2109f563cf0afc7",
-      "size": 104960
+      "sha256": "3a4775d428529a30818398517241036ed2a8dbe0df4eeef1b7e6bc3d8e2d56d2",
+      "size": 105472
     },
     {
       "path": "BepInEx/plugins/BazaarVolumeBoost.dll",
@@ -325,8 +325,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "03beca74500aff38fc2d821fc14ee0fa112d79fbd9ed65daba5c65b4f5e1c38c",
-      "size": 46572
+      "sha256": "ab11ee29c7fba489ab2edddf12d04302394e9b5488670c90e089d61f07b94809",
+      "size": 46584
     }
   ]
 }
