@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "6.4.3-ko.4.1",
+  "version": "6.4.3-ko.5",
   "bppVersion": "6.4.3.prod",
-  "notes": "소포 안내 추가(소포 카드에 받을 상인 얼굴, 그 상인의 지도 선택지에 !), ! 이유 판 글자를 게임 툴팁 글자 모양으로",
+  "notes": "말풍선 자막 추가(음성 자막을 말한 사람 초상화 옆 말풍선으로), 소포 얼굴 테두리를 상인 등급 색으로·새 상인 얼굴 위치·화질 개선, ! 이유 판 글자 세로 가운데",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.4.3-ko.4.1/BazaarPlusPlusKorean_v6.4.3-ko.4.1.zip",
-  "packageSha256": "b56cbf56fdfdb77c4baf7de4b52f428c4ba1291cd5b1a81248c12a48e9dd7979",
-  "packageSize": 16646716,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.4.3-ko.5/BazaarPlusPlusKorean_v6.4.3-ko.5.zip",
+  "packageSha256": "ee96711f8486133b5aebcba58ffef7208b2fe997c4e87134f9be5224ee3fbf1a",
+  "packageSize": 16685981,
   "files": [
     {
       "path": "BazaarPlusPlusV6/fonts/DNFForgedBlade-Medium.otf",
@@ -160,8 +160,8 @@
     },
     {
       "path": "BepInEx/plugins/BazaarKoFontStyle.dll",
-      "sha256": "70296b0595f58b89e57743c58088dc4d0cccc022b1fb70d44497f81349f8ccb0",
-      "size": 59392
+      "sha256": "6368287d8ad5138ffae0072d033a60ad69e9d4e34726228ac5e21c0fc9bb4db8",
+      "size": 65536
     },
     {
       "path": "BepInEx/plugins/BazaarKoGameText.dll",
@@ -220,8 +220,13 @@
     },
     {
       "path": "BepInEx/plugins/BazaarQuestGuide.dll",
-      "sha256": "4d9609cd4ed12080496cc9febd77a8fe1c224f43da229373728bf921c42a519b",
-      "size": 78848
+      "sha256": "754c938f05d607ea55151894d1d5e501f49853cf632233e9affd203ded1b7992",
+      "size": 84992
+    },
+    {
+      "path": "BepInEx/plugins/BazaarSpeechBubble.dll",
+      "sha256": "958527fc86ad7979156a8d8812af9c7cc07d1fe94fd0d6e8e48b3c8fdae4a696",
+      "size": 67072
     },
     {
       "path": "BepInEx/plugins/BazaarTagTools.dll",
@@ -320,8 +325,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "9d0ca11b48fe1319177f3c28eb40aecf178eb6f9f92fb3e429963588d74beb3f",
-      "size": 43125
+      "sha256": "03beca74500aff38fc2d821fc14ee0fa112d79fbd9ed65daba5c65b4f5e1c38c",
+      "size": 46572
     }
   ]
 }
