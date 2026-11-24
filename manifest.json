@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "6.4.3-ko.4",
+  "version": "6.4.3-ko.4.1",
   "bppVersion": "6.4.3.prod",
-  "notes": "한글판 화면을 게임 원본 그림으로, 퀘스트 안내(상인 얼굴·지도 !) 추가, 옵션 탭 묶음 정리, 상점 추천 별 붙는 기준 고르기",
+  "notes": "소포 안내 추가(소포 카드에 받을 상인 얼굴, 그 상인의 지도 선택지에 !), ! 이유 판 글자를 게임 툴팁 글자 모양으로",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.4.3-ko.4/BazaarPlusPlusKorean_v6.4.3-ko.4.zip",
-  "packageSha256": "3d411dbe0488efe02c6ed6b53516d5a47008776275d94aee8856e291c1f07e9a",
-  "packageSize": 16639997,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.4.3-ko.4.1/BazaarPlusPlusKorean_v6.4.3-ko.4.1.zip",
+  "packageSha256": "b56cbf56fdfdb77c4baf7de4b52f428c4ba1291cd5b1a81248c12a48e9dd7979",
+  "packageSize": 16646716,
   "files": [
     {
       "path": "BazaarPlusPlusV6/fonts/DNFForgedBlade-Medium.otf",
@@ -220,8 +220,8 @@
     },
     {
       "path": "BepInEx/plugins/BazaarQuestGuide.dll",
-      "sha256": "0205d9a92f521f35fc5dec5be08fc801addfb2e10abe1a26db81ea2059bb0eb4",
-      "size": 61952
+      "sha256": "4d9609cd4ed12080496cc9febd77a8fe1c224f43da229373728bf921c42a519b",
+      "size": 78848
     },
     {
       "path": "BepInEx/plugins/BazaarTagTools.dll",
@@ -320,8 +320,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "8655e6038143040c1cc123e6ea71baf3e7da3bbca3c41ad1871a17319f8bc4e7",
-      "size": 41946
+      "sha256": "9d0ca11b48fe1319177f3c28eb40aecf178eb6f9f92fb3e429963588d74beb3f",
+      "size": 43125
     }
   ]
 }
