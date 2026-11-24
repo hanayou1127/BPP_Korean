@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "6.4.3-ko.3",
+  "version": "6.4.3-ko.4",
   "bppVersion": "6.4.3.prod",
-  "notes": "상점 추천을 최종 빌드에 들 확률(★~★★★)로 다시 만듦, 이유 줄 표시",
+  "notes": "한글판 화면을 게임 원본 그림으로, 퀘스트 안내(상인 얼굴·지도 !) 추가, 옵션 탭 묶음 정리, 상점 추천 별 붙는 기준 고르기",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.4.3-ko.3/BazaarPlusPlusKorean_v6.4.3-ko.3.zip",
-  "packageSha256": "1de67e35476eed859e527012bcee09d221e06c0de2e0b83316d0991ef2ca67c9",
-  "packageSize": 16571682,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.4.3-ko.4/BazaarPlusPlusKorean_v6.4.3-ko.4.zip",
+  "packageSha256": "3d411dbe0488efe02c6ed6b53516d5a47008776275d94aee8856e291c1f07e9a",
+  "packageSize": 16639997,
   "files": [
     {
       "path": "BazaarPlusPlusV6/fonts/DNFForgedBlade-Medium.otf",
@@ -155,13 +155,13 @@
     },
     {
       "path": "BepInEx/plugins/BazaarItemPairs.dll",
-      "sha256": "c8a6a32dc09b87fa272f5e705daf46c889da75a3c56808210fda527d4aba594b",
-      "size": 105984
+      "sha256": "d4563aec0198e134aebe8f85d248397156aec1b2c0690b79803eb442d319a0f2",
+      "size": 123904
     },
     {
       "path": "BepInEx/plugins/BazaarKoFontStyle.dll",
-      "sha256": "41e387d52c5dd9fe256a5c1c69c4bdc9c43c1631b5327ff09e1b454c3c3d8a41",
-      "size": 41984
+      "sha256": "70296b0595f58b89e57743c58088dc4d0cccc022b1fb70d44497f81349f8ccb0",
+      "size": 59392
     },
     {
       "path": "BepInEx/plugins/BazaarKoGameText.dll",
@@ -170,13 +170,13 @@
     },
     {
       "path": "BepInEx/plugins/BazaarKoKeybinds.dll",
-      "sha256": "991fc89c1dcdfc1e3f04e08469e160caf09155152411ee4fdbd12b3c59ff89b5",
-      "size": 30720
+      "sha256": "a8fd6fadefcec0054114c1b60106b5aa58f043d36adb3172046750a825dc7d60",
+      "size": 42496
     },
     {
       "path": "BepInEx/plugins/BazaarKoUpdate.dll",
-      "sha256": "aaa8fd407874afc1cd308fb0c3fbc51e6987af409e6fc169bd70e1041b76b674",
-      "size": 38400
+      "sha256": "bad40f1b69ad7bad81018494e8266d7230b486bac410a2d1b7cc8d4018f92965",
+      "size": 63488
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.Core.dll",
@@ -219,9 +219,14 @@
       "size": 12
     },
     {
+      "path": "BepInEx/plugins/BazaarQuestGuide.dll",
+      "sha256": "0205d9a92f521f35fc5dec5be08fc801addfb2e10abe1a26db81ea2059bb0eb4",
+      "size": 61952
+    },
+    {
       "path": "BepInEx/plugins/BazaarTagTools.dll",
-      "sha256": "bf358d823e507badc24ad34872e85680350d61526ef4d326ff9d35f01a191880",
-      "size": 89088
+      "sha256": "7c52b7336f0f73b6c27810e28b273588fc5eed972fc0d926f2109f563cf0afc7",
+      "size": 104960
     },
     {
       "path": "BepInEx/plugins/BazaarVolumeBoost.dll",
@@ -315,8 +320,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "a1f91af541f3768e17cccb60427c31811234c0768f3eacf1481aa6801d101024",
-      "size": 37044
+      "sha256": "8655e6038143040c1cc123e6ea71baf3e7da3bbca3c41ad1871a17319f8bc4e7",
+      "size": 41946
     }
   ]
 }
