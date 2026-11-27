@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "6.4.3-ko.5.2",
+  "version": "6.4.3-ko.5.3",
   "bppVersion": "6.4.3.prod",
-  "notes": "투어 버스처럼 화면보다 긴 툴팁을 화면에 맞게 줄임, 말풍선 기본 자리(상대 오른쪽·나 왼쪽), 업데이트 소식 창",
+  "notes": "소포 카드와 말풍선 작은 초상화의 얼굴 위치 바로잡음(ko.5.2에 옛 얼굴 칸 표가 들어갔던 문제)",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.4.3-ko.5.2/BazaarPlusPlusKorean_v6.4.3-ko.5.2.zip",
-  "packageSha256": "2630de204c430a546647e25faef3dd9606d38e4c8179c563a58ffb4abb34a787",
-  "packageSize": 16687357,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.4.3-ko.5.3/BazaarPlusPlusKorean_v6.4.3-ko.5.3.zip",
+  "packageSha256": "8773e0aea042c8b0b44ba43d882bc6d7715930ed43da3103666813831b9e9c76",
+  "packageSize": 16689595,
   "files": [
     {
       "path": "BazaarPlusPlusV6/fonts/DNFForgedBlade-Medium.otf",
@@ -180,8 +180,8 @@
     },
     {
       "path": "BepInEx/plugins/BazaarKorean.whatsnew.txt",
-      "sha256": "a6d911a99ed50b3b5a7c23acc797e0e0916bd0edd212b16a7163c84ab3b64ca3",
-      "size": 378
+      "sha256": "14aa1ae4cf749eb236ddfad75457ecf0c17ace69227d5539ed117584346864d3",
+      "size": 493
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.Core.dll",
@@ -225,8 +225,8 @@
     },
     {
       "path": "BepInEx/plugins/BazaarQuestGuide.dll",
-      "sha256": "0954d9fe3691c4a0424dbd69ddbe334e13752c4e049ec7313b025a7c33570356",
-      "size": 83456
+      "sha256": "84d6fee4839cf9a458d575e42d5a1de74b47766bee1f9d80b6faecf54650eeb2",
+      "size": 88576
     },
     {
       "path": "BepInEx/plugins/BazaarSpeechBubble.dll",
@@ -330,8 +330,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "37a2d7e2932f37741bb04a5519369ce966648b3f23e55ab7c144835372d8bf9f",
-      "size": 47322
+      "sha256": "d6648efa92a65765797e368fd5b18dcf7ea8868142c5a82a2f75aa98006e7c63",
+      "size": 47325
     }
   ]
 }
