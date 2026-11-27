@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "6.4.3-ko.5.1",
+  "version": "6.4.3-ko.5.2",
   "bppVersion": "6.4.3.prod",
-  "notes": "F7 유형 도구 창을 휠로 내릴 때 위아래 칸이 겹쳐 보이던 문제 수정",
+  "notes": "투어 버스처럼 화면보다 긴 툴팁을 화면에 맞게 줄임, 말풍선 기본 자리(상대 오른쪽·나 왼쪽), 업데이트 소식 창",
   "gameVersions": [],
-  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.4.3-ko.5.1/BazaarPlusPlusKorean_v6.4.3-ko.5.1.zip",
-  "packageSha256": "a058b761661674de6e428380518576d28117b144207a1d6c01f2d1fbfb4841f9",
-  "packageSize": 16686001,
+  "packageUrl": "https://github.com/hanayou1127/BPP_Korean/releases/download/v6.4.3-ko.5.2/BazaarPlusPlusKorean_v6.4.3-ko.5.2.zip",
+  "packageSha256": "2630de204c430a546647e25faef3dd9606d38e4c8179c563a58ffb4abb34a787",
+  "packageSize": 16687357,
   "files": [
     {
       "path": "BazaarPlusPlusV6/fonts/DNFForgedBlade-Medium.otf",
@@ -175,8 +175,13 @@
     },
     {
       "path": "BepInEx/plugins/BazaarKoUpdate.dll",
-      "sha256": "bad40f1b69ad7bad81018494e8266d7230b486bac410a2d1b7cc8d4018f92965",
-      "size": 63488
+      "sha256": "264661d70401592fa1d686f78bc7718b16a214a84a111489de79cac8dd202277",
+      "size": 66048
+    },
+    {
+      "path": "BepInEx/plugins/BazaarKorean.whatsnew.txt",
+      "sha256": "a6d911a99ed50b3b5a7c23acc797e0e0916bd0edd212b16a7163c84ab3b64ca3",
+      "size": 378
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.Core.dll",
@@ -220,13 +225,13 @@
     },
     {
       "path": "BepInEx/plugins/BazaarQuestGuide.dll",
-      "sha256": "754c938f05d607ea55151894d1d5e501f49853cf632233e9affd203ded1b7992",
-      "size": 84992
+      "sha256": "0954d9fe3691c4a0424dbd69ddbe334e13752c4e049ec7313b025a7c33570356",
+      "size": 83456
     },
     {
       "path": "BepInEx/plugins/BazaarSpeechBubble.dll",
-      "sha256": "958527fc86ad7979156a8d8812af9c7cc07d1fe94fd0d6e8e48b3c8fdae4a696",
-      "size": 67072
+      "sha256": "20d3b24d0dff364e81bc2fda542df3e91d6cd0b695da5d665c45235cac083345",
+      "size": 67584
     },
     {
       "path": "BepInEx/plugins/BazaarTagTools.dll",
@@ -325,8 +330,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "ab11ee29c7fba489ab2edddf12d04302394e9b5488670c90e089d61f07b94809",
-      "size": 46584
+      "sha256": "37a2d7e2932f37741bb04a5519369ce966648b3f23e55ab7c144835372d8bf9f",
+      "size": 47322
     }
   ]
 }
